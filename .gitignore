@@ -1,0 +1,10 @@
+# Виртуальные окружения
+.venv/
+.venv311/
+venv/
+
+# IDE / служебные
+.idea/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/

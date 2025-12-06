@@ -1,0 +1,1466 @@
+TECHNICAL PANEL HANDBOOK SINGLE SKATING
+25 July 2025
+
+
+Calling procedure
+In both Short Program and Free Skating whenever possible we should call the elements really performed and not the elements that are required.
+Any wrong elements will receive an “*” that will result in “No Value”. When the calculation system adds “*” to an element, the TP must check that the “*” is in the correct place. For example, a failed attempt of flying spin must be called Flying spin instead of “Spin” to avoid “*” being assigned to a wrong spin.
+General
+Any element in Short Program and Free Skating started after the required time (plus the ten (10) seconds allowed) must not be identified by the Technical Panel and will have no value.
+Calling procedure for falls: If a fall occurs in an element, the call will be “Fall”. For example “3F, Fall”. If a fall occurs outside an element, the call will be “Fall outside”. If the fall is called outside, the replay operator must make sure that the fall is not included in the videoclip of an element. Falls in elements and in any part of the program must be reviewed with normal speed.
+A Fall is defined as loss of control by a Skater with the result that the majority of his/her own body weight is on the ice supported by any other part of the body other than the blades e.g. hand(s), knee(s), back, buttock(s) or any part of the arm.
+Before the elements are authorized by the TC, both TS1 and TS2 should state “agree” if the list read by the data operator is correct. After that TC can authorize the elements.
+
+
+Step Sequence
+Rules
+General
+All step sequences should be executed according to the character of the music. Short stops in accordance with the music are permitted. Step Sequences must fully utilize the ice surface.
+Turns and steps must be balanced in their distribution throughout the sequence.
+Short Program
+Short Program for Senior & Junior Men and for Senior & Junior Women must include one Step Sequence fully utilizing the ice surface.
+Unlisted jumps (any number of revolutions) and listed jumps (with maximum one revolution) may be included in the step sequence without any penalties. Listed jumps of not more than one revolution included in the sequence will not be called and will not occupy a box.
+Free Skating
+A well balanced Senior Free Skating program must contain one Step Sequence fully utilizing the ice surface. A step sequence is not included in Junior Free Skating.
+Any unlisted jumps of any number of revolutions and listed jumps with maximum one revolution can be included in the step sequence without any penalties. Listed jumps of not more than one revolution included in the sequence will not be called and will not occupy a box. Listed jumps with more than one revolution can also be included in the step sequence; they will be called and will occupy a box. The step sequence must fully utilize the ice surface. Step sequences which are too short and barely visible cannot be considered as meeting the requirements of a step sequence.
+Level features
+1. Minimum variety (Level 1), simple variety (Level 2), variety (Level 3), complexity (Level
+4) of difficult turns and steps throughout (compulsory)
+2. Rotations in either direction (left and right) with full body rotation covering at least 1/3 of the pattern in total for each rotational direction 3. Use of body movements for at least 1/3 of the pattern 4. Two combinations of 3 difficult turns on different feet executed with continuous flow within the sequence. Only one difficult turn may be repeated in the two combinations. Only the first combination attempted on each foot can be counted.
+Clarifications
+Pattern
+There is no longer a required pattern, but a step sequence must fully utilize the ice surface. The Step Sequence must be visible and identifiable and should be performed by using the full ice surface (e.g. straight line, serpentine, circle, oval or similar shape). Failure to achieve the above description will result in no value. In features 2 and 3 “pattern” means the pattern actually executed by the skater.
+Таблица 4 (страницы 3, 4):
+Pattern: Definition of
+Difficult Turns and
+Steps; There is no longer a required pattern, but a step sequence must fully utilize
+the ice surface. The Step Sequence must be visible and identifiable and
+should be performed by using the full ice surface (e.g. straight line,
+serpentine, circle, oval or similar shape). Failure to achieve the above
+description will result in no value. In features 2 and 3 “pattern” means the
+pattern actually executed by the skater.: I
+Difficult Turns and Steps: twizzles, brackets, loops, counters, rockers,
+choctaws.
+Turns and Steps must be executed on clean edges.
+f a turn is “jumped”, it is not counted as performed.
+
+
+Beginning and End of the pattern
+Definition of Turns and Steps
+Definition of choctaw
+Definition of Difficult Turns and Steps
+Minimum Variety
+Simple Variety
+Variety
+Complexity
+No minimum variety, only minimum variety, only simple variety, only variety
+Distribution
+Rotations in either direction
+This is when a skater actually starts or concludes the sequence.
+Turns: twizzles, brackets, loops, counters, rockers, three turns. Steps: toe steps, chasses, mohawks, choctaws, change of edge, cross rolls.
+Choctaw is a step from one foot to the other in which the curve of the exit edge is opposite to that of the entry edge. The change of foot is directly from outside edge to inside edge or vice versa and from forward to backward or vice versa.
+Difficult Turns and Steps: twizzles, brackets, loops, counters, rockers, choctaws. Turns and Steps must be executed on clean edges.
+If a turn is “jumped”, it is not counted as performed.
+Must include at least 5 difficult turns and steps, none of the types can be counted more than twice.
+Must include at least 7 difficult turns and steps, none of the types can be counted more than twice.
+Must include at least 9 difficult turns and steps, none of the types can be counted more than twice.
+Must include at least 11 difficult turns and steps. None of the types of turns and steps can be counted more than twice.
+5 types of turns and steps must be executed in both directions (the direction means body rotating to the left or to the right during the turn).
+If a skater does not perform a minimum variety of steps and turns, the Level cannot be higher than Basic. If a skater performs only minimum variety of steps and turns, the Level cannot be higher than 1. If a skater performs only simple variety of steps and turns, the Level cannot be higher than 2. If a skater performs only variety (but not complexity) of steps and turns, the Level cannot be higher than 3.
+Turns and steps must be distributed throughout the sequence. There should be no long sections without turns or steps. If this requirement is not fulfilled, the Level cannot be higher than Basic. Skaters are allowed to include free skating movements like spread eagles and spirals inside the step sequence without affecting the even distribution of the turns and steps.
+This feature means that a skater rotates with any listed and unlisted turns and steps continuously in one direction for at least 1/3 of the sequence and then continuously for at least 1/3 of the sequence in the opposite direction (clockwise and counter-clockwise) or over the length of the step sequence the skater is rotating with any listed and unlisted steps and turns for at least 1/3 of the sequence in total (not continuous) in one rotational
+Таблица 8 (страницы 4, 5):
+Rotations in either
+direction: Use of body
+movements; This feature means that a skater rotates with any listed and unlisted turns
+and steps continuously in one direction for at least 1/3 of the sequence and
+then continuously for at least 1/3 of the sequence in the opposite direction
+(clockwise and counter-clockwise) or over the length of the step sequence
+the skater is rotating with any listed and unlisted steps and turns for at
+least 1/3 of the sequence in total (not continuous) in one rotational: Use of body movements means the visible use for a combined total of at
+least 1/3 of the pattern of the step sequence any movements of the arms,
+and/or head and/or torso and/or hips and/or legs that have an effect on the
+balance of the main body core.
+Having an effect on the balance of main body core can also be understood
+as having an effect on the balance of the body as a whole and influencing
+the balance on the blade.
+
+
+Use of body movements
+Two combinations of 3 difficult turns on different feet
+Jumps with one or less than one revolution executed in the step sequence
+Jumps with more than one revolution executed in the step sequence
+direction and at least 1/3 of the sequence in total (not continuous) in the opposite direction (clockwise and counter-clockwise). “Full body rotation” means one complete rotation. The skater should not just turn half a revolution back and forth.
+Use of body movements means the visible use for a combined total of at least 1/3 of the pattern of the step sequence any movements of the arms, and/or head and/or torso and/or hips and/or legs that have an effect on the balance of the main body core. Having an effect on the balance of main body core can also be understood as having an effect on the balance of the body as a whole and influencing the balance on the blade.
+Difficult turns are rockers, counters, brackets, twizzles, loops.
+Only one difficult turn may be repeated once in the two combinations. The repeated turn can be executed in one combination (e.g. 1st combination: rocker, counter, rocker and 2nd combination: bracket, twizzle, loop). Or the repeated turn can be executed once in each combination (e.g. 1st combination: bracket, counter, loop and 2nd combination: rocker, counter, twizzle).
+In the combinations • Three turns, change of edge, a jump/hop, changes of feet are not
+allowed;
+The exit edge of a turn is the entry edge of the next turn. • The free foot must not touch the ice. • The combination must be executed with continuous flow within the sequence.
+Only the first combination attempted on each foot can be counted. There is no maximum number of turns but there must be three (3) consecutive and correct difficult turns successfully performed to count. For example, the following is allowed: 1st combination: rocker, bracket, counter and 2nd combination: rocker, counter, twizzle, loop. In the second combination the three consecutive and correct difficult turns (counter, twizzle, loop) are counted for the combination.
+In both SP and FS unlisted jumps (any number of revolutions) and listed jumps (with maximum one revolution) may be included in the step sequence without any penalties. Listed jumps of not more than one revolution included in the sequence will not be called and will not occupy a box.
+In SP listed jumps of more than one revolution will be ignored as an element but will force the Judges to reduce GOE by 1 grade for “Listed jumps of more than one rev. included”. In FS listed jumps of more than one revolution can be included in the step sequence. They will be identified and will occupy jumping boxes.
+In any case these jumps do not influence the determination of Level of difficulty of the Step sequence.
+Таблица 11 (страницы 5, 6, 7, 8):
+Jumps with more
+than one
+revolution
+executed in the
+step sequence: Free Skating; I
+In SP listed jumps of more than one revolution will be ignored as an
+element but will force the Judges to reduce GOE by 1 grade for “Listed
+jumps of more than one rev. included”.
+In FS listed jumps of more than one revolution can be included in the step
+sequence. They will be identified and will occupy jumping boxes.
+n any case these jumps do not influence the determination of Level of
+difficulty of the Step sequence.: T
+A Choreographic Sequence consists of at least 2 different skating
+movements like spirals, arabesques, spread eagles, Ina Bauers,
+hydroblading, any jumps with maximum of 2 revolutions, spins, etc. Steps
+and turns may be used to link the 2 or more different movements together.
+Listed elements included in the Choreographic Sequence will not be called
+and will not occupy a box. The pattern is not restricted, but the sequence
+must be clearly visible.
+he Technical Panel identifies the Choreographic Sequence which
+commences with the first skating movement and is concluded with the
+preparation to the next element (if the Choreographic Sequence is not the
+last element of the program). It can be performed before or after the Step
+Sequence.
+he Choreographic Sequence is included in Junior and Senior Free Skating.
+This element has a fixed base value and will be evaluated by the judges in
+GOE only.
+Jumps with more
+than one
+revolution
+executed in the
+step sequence: General; I
+In SP listed jumps of more than one revolution will be ignored as an
+element but will force the Judges to reduce GOE by 1 grade for “Listed
+jumps of more than one rev. included”.
+In FS listed jumps of more than one revolution can be included in the step
+sequence. They will be identified and will occupy jumping boxes.
+n any case these jumps do not influence the determination of Level of
+difficulty of the Step sequence.: T
+A Spin that has no  basic position with  2 revolutions  will receive no Level
+and no value, however a spin with less than three rotations is considered
+as a skating movement and not a spin.
+he  minimum  number  of  revolutions  required  in  a  position  is  two  (2)
+without interruption. In case this requirement is not fulfilled, the position
+is not counted.
+Positions: There are 3 basic positions:
+camel (free leg backwards with the knee higher than the hip level,
+however
+Layback,  Biellmann
+and
+similar
+variations
+are
+still
+considered as upright spins),
+sit (the upper part of the skating leg at least parallel to the ice),
+upright  (any  position  with  skating  leg  extended  or  slightly  bent
+which is not a camel position).
+Any position which is not basic is a non-basic position.
+ayback Spin is an upright spin in which head and shoulders are leaning
+backwards with the back arched. The position of the free leg is optional.
+Sideways  Leaning  Spin  is  an  upright  spin  in  which  head  and  shoulders
+are leaning sideways and the upper body is arched. The position of the free
+leg is optional.
+he change of foot in any spin must be preceded and followed by a spin
+position with at least three (3) revolutions. If this requirement is not fulfilled
+the spin will be “No Value” in Short Program and marked with a “V” in Free
+Skating.
+If the Skater(s) fall(s) when entering a spin, or in any failed spin, a spin or a
+spinning movement is allowed immediately after this fall or failure (for
+time filling purpose) with this spin or movement not being counted as an
+element.
+If there is a clear weight transfer during a spin, this ends the spin and only
+the first part before the weight transfer is called.
+f  the  spinning  centers  (before  and  after  the  change  of  foot)  are  too  far
+apart and the criteria of “two spins” is fulfilled (there is a curve of exit after
+the  first  part  and  the  curve  of  entry  into  the  second  part),  only  the  part
+before the change of foot will be called and considered for Levels features.
+pin  combinations:  Must
+include  a  minimum  of  two  different  basic
+positions with 2 revolutions in each of these positions anywhere within the
+spin: the number of revolutions in positions that are non-basic is counted
+in the total number of revolutions. Changing to a non-basic position is not
+considered as a change of position. A change of foot may be executed in
+the form of a step over or a jump. The change of foot and the change of
+position may be made either at the same time or separately.
+In SP listed jumps of more than one revolution will be ignored as an
+element but will force the Judges to reduce GOE by 1 grade for “Listed
+jumps of more than one rev. included”.
+In FS listed jumps of more than one revolution can be included in the step
+sequence. They will be identified and will occupy jumping boxes.
+n any case these jumps do not influence the determination of Level of
+difficulty of the Step sequence.: W
+Spin
+in  one  position  and  Flying  spin  (means  a  spin  with  a  flying
+entrance and no change of foot and position): The concluding upright
+position  at  the  end  of  the  spin  (final  wind-up)  is  not  considered  to  be
+another position independent of the number of revolutions, as long as in
+such  a  final  wind-up  no  additional  feature  is  executed  (change  of  edge,
+variation of position etc.)
+hen the spin is commenced with a jump, no previous rotation on the
+ice before the take-off is permitted and a step over must be considered
+by the Technical Panel adding “V” to reduce the Base Value and by the
+Judges in the Grade of execution.
+
+
+Choreographic Sequence
+Rules
+Free Skating
+A Choreographic Sequence consists of at least 2 different skating movements like spirals, arabesques, spread eagles, Ina Bauers, hydroblading, any jumps with maximum of 2 revolutions, spins, etc. Steps and turns may be used to link the 2 or more different movements together. Listed elements included in the Choreographic Sequence will not be called and will not occupy a box. The pattern is not restricted, but the sequence must be clearly visible.
+The Technical Panel identifies the Choreographic Sequence which commences with the first skating movement and is concluded with the preparation to the next element (if the Choreographic Sequence is not the last element of the program). It can be performed before or after the Step Sequence.
+The Choreographic Sequence is included in Junior and Senior Free Skating. This element has a fixed base value and will be evaluated by the judges in GOE only.
+Clarifications
+How to call the Choreographic Sequence
+The call should be “Choreo Sequence confirmed” (if the Sequence will be counted) or “Choreo Sequence no value” in the opposite case.
+When to confirm the Choreographic Sequence
+Choreographic sequence can be confirmed after 2 different skating movements have been identified. The replay operator must make sure to include all the movements in the element in the videoclip for the evaluation of the GOE.
+Sliding on the knees
+Movements executed on one or two knees are counted as skating movements.
+Listed single and double jumps
+Listed single and double jumps (except 2A) included in the Choreographic Sequence will not be called and will not occupy an element’s box.
+Jumps with more than 2 revolutions
+A jump with more than 2 revolutions is called and counted. The Choreographic Sequence ends the moment this jump is executed.
+Spins
+Any spin included in the Choreographic Sequence will not be called and will not occupy an element’s box.
+Pattern
+Any pattern is allowed, however the sequence must be clearly visible.
+
+
+General
+Spins
+Rules
+A Spin that has no basic position with 2 revolutions will receive no Level and no value, however a spin with less than three rotations is considered as a skating movement and not a spin.
+The minimum number of revolutions required in a position is two (2) without interruption. In case this requirement is not fulfilled, the position is not counted. Positions: There are 3 basic positions:
+− camel (free leg backwards with the knee higher than the hip level, however Layback, Biellmann and similar variations are still considered as upright spins),
+− sit (the upper part of the skating leg at least parallel to the ice), − upright (any position with skating leg extended or slightly bent
+which is not a camel position).
+Any position which is not basic is a non-basic position.
+Layback Spin is an upright spin in which head and shoulders are leaning backwards with the back arched. The position of the free leg is optional. Sideways Leaning Spin is an upright spin in which head and shoulders are leaning sideways and the upper body is arched. The position of the free leg is optional.
+The change of foot in any spin must be preceded and followed by a spin position with at least three (3) revolutions. If this requirement is not fulfilled the spin will be “No Value” in Short Program and marked with a “V” in Free Skating.
+If the Skater(s) fall(s) when entering a spin, or in any failed spin, a spin or a spinning movement is allowed immediately after this fall or failure (for time filling purpose) with this spin or movement not being counted as an element.
+If there is a clear weight transfer during a spin, this ends the spin and only the first part before the weight transfer is called.
+If the spinning centers (before and after the change of foot) are too far apart and the criteria of “two spins” is fulfilled (there is a curve of exit after the first part and the curve of entry into the second part), only the part before the change of foot will be called and considered for Levels features.
+Spin combinations: Must include a minimum of two different basic positions with 2 revolutions in each of these positions anywhere within the spin: the number of revolutions in positions that are non-basic is counted in the total number of revolutions. Changing to a non-basic position is not considered as a change of position. A change of foot may be executed in the form of a step over or a jump. The change of foot and the change of position may be made either at the same time or separately.
+
+
+Spin in one position and Flying spin (means a spin with a flying entrance and no change of foot and position): The concluding upright position at the end of the spin (final wind-up) is not considered to be another position independent of the number of revolutions, as long as in such a final wind-up no additional feature is executed (change of edge, variation of position etc.)
+When the spin is commenced with a jump, no previous rotation on the ice before the take-off is permitted and a step over must be considered by the Technical Panel adding “V” to reduce the Base Value and by the Judges in the Grade of execution.
+Short Program
+The Short Program of the season 2025 – 2026 includes the following 3 spins:
+− Flying spin:
+o Seniors: Flying spin with landing position different than in
+the Spin in one position;
+o Juniors: Flying sit spin, any air position allowed
+− Spin in one position
+o Senior Men: Camel/Sit spin (position different from the
+landing position of the Flying spin) with only one change of foot;
+o Senior Women: Layback/sideways leaning spin or sit/camel spin without change of foot; (position different from the landing position of the Flying spin);
+o Junior Men: Camel spin with only one change of foot; o Junior Women: Layback/sideways leaning spin or Camel
+spin without change of foot. − Spin combination with only one change of foot.
+The spins must have a required minimum number of revolutions:
+− eight (8) for the flying spin, the layback spin and a sit/camel spin
+without change of foot,
+− six (6) on each foot in the spin with a change of foot and the spin
+combination, the lack of which must be reflected by the Judges in their marking.
+In the spin combination the change of foot is required. Except flying spins, spins cannot be commenced with a jump.
+Specific elements in Short Program:
+Women: layback/sideways leaning spin
+Any position is permitted, as long as the basic layback or sideways leaning position is maintained for eight (8) revolutions without rising to an upright position. The position of a “Biellmann Spin” can only be taken and considered as a feature to increase the Level after having successfully rotated these required 8 revolutions in the layback position (backwards and/or sideways). If in this “Biellmann Spin” the skater changes edge, clearly increases the speed and/or executes (8) revolutions without any changes, additional level features can be awarded. In Advanced Novice the skater must have 6 revolutions in layback or sideways leaning position before executing a Biellmann position.
+Таблица 13 (страницы 8, 9):
+Women:
+layback/sideways
+leaning spin: Men: spin in one
+position with
+change of foot; Any position is permitted, as long as the basic layback or sideways leaning
+position is maintained for eight (8) revolutions without rising to an upright
+position.  The  position  of  a
+“Biellmann  Spin”  can  only  be  taken  and
+considered  as  a  feature  to  increase  the  Level  after  having  successfully
+rotated  these  required  8  revolutions  in  the  layback  position  (backwards
+and/or sideways). If in this “Biellmann Spin” the skater changes edge, clearly
+increases the speed and/or executes (8) revolutions without any changes,
+additional  level  features  can  be  awarded.  In  Advanced  Novice  the  skater
+must  have  6  revolutions  in  layback  or  sideways  leaning  position  before
+executing a Biellmann position.: S
+Senior & Junior: The spin must include only one change of foot, which may
+be executed by a step or a jump.
+enior: The skater must choose the camel or the sit position, but this
+position must be different from the landing position of the Flying spin.
+unior: Only the prescribed sit or camel position is permitted.
+enior & Junior: The spin must have at least 3 revolutions before and after
+the change of foot.
+
+
+Men: spin in one position with change of foot
+Spin combination with change of foot
+Flying spin
+Flying spin and the spin in one position
+Free Skating
+Senior & Junior: The spin must include only one change of foot, which may be executed by a step or a jump.
+Senior: The skater must choose the camel or the sit position, but this position must be different from the landing position of the Flying spin.
+Junior: Only the prescribed sit or camel position is permitted.
+Senior & Junior: The spin must have at least 3 revolutions before and after the change of foot.
+Must have a minimum of two different basic positions with 2 revolutions in each of these positions anywhere within the spin. To receive full value, a Spin combination must include all three basic positions. The number of revolutions in positions that are non-basic are counted in the total number of revolutions. Changing to a non-basic position is not considered as a change of position.
+Only one change of foot with not less than six (6) revolutions on each foot. The change of foot may be executed in the form of a step or a jump. The change of foot and the change of position may be made either at the same time or separately.
+The name of the flying spin corresponds to its landing position.
+− Senior: Any type of flying spin is permitted with landing position
+different than in the Spin in one position.
+− Junior: Only the prescribed flying spin is permitted.
+The flying position may be different from the landing position. A minimum of eight (8) revolutions in the landing position.
+No previous rotation on the ice before the take-off is permitted. The required eight (8) revolutions can be executed in any variation of the landing position.
+If in Senior Men and Women the landing position of the Flying spin is the same as in the Spin in one position, the last performed of these two spins will not be counted but will occupy a spin box.
+A well balanced Free Skating program for Men & Women (Senior & Junior) must contain max of 3 spins:
+− one of which must be a spin combination − one a flying spin or a spin with flying entrance − one a spin with only one position.
+All Spins must be of a different character. Any Spin with the same character (abbreviation) as the one executed before will not be counted (but will occupy a spinning box).
+If no performed spin has a flying entrance, or if there is no spin in one position, or no spin combination, the wrong executed spin will be automatically deleted by the computer.
+Таблица 16 (страницы 9, 10, 11):
+A well balanced Free Skating program for Men & Women (Senior & Junior)
+must contain max of 3 spins:
+one of which must be a spin combination
+one a flying spin or a spin with flying entrance
+one a spin with only one position.
+All Spins must be of a different character. Any Spin with the same character
+(abbreviation)  as  the  one  executed  before  will  not  be  counted  (but  will
+occupy a spinning box).
+f no performed spin has a flying entrance, or if there is no spin in one
+position, or no spin combination, the wrong executed spin will be
+automatically deleted by the computer.: I
+The spins must have a required minimum number of revolutions:
+six (6) for the flying spin and the spin with only one position
+ten (10) for the spin combination,
+the lack of which must be reflected by Judges in their GOE. This minimum
+number of required revolutions must be counted from the entry of the spin
+until its exit (except final wind-up in Spins in one position and Flying spins).
+n  the  spin  combination  and  spin  in  one  position  the  change  of  foot  is
+optional. The number of different positions in the spin combination is free.
+Free Skating: To get level 4; I
+A well balanced Free Skating program for Men & Women (Senior & Junior)
+must contain max of 3 spins:
+one of which must be a spin combination
+one a flying spin or a spin with flying entrance
+one a spin with only one position.
+All Spins must be of a different character. Any Spin with the same character
+(abbreviation)  as  the  one  executed  before  will  not  be  counted  (but  will
+occupy a spinning box).
+f no performed spin has a flying entrance, or if there is no spin in one
+position, or no spin combination, the wrong executed spin will be
+automatically deleted by the computer.: One of the mandatory six features must be performed successfully and
+counted in a spin in order to get level 4. If one of these mandatory features is
+“used”, level 4 cannot be given. For example: In the first spin (FSSp), the
+following features are counted: Difficult fly, sit forward variation, sit side
+variation and 8 revolutions. This first spin will be level 4. In the second spin
+(FCCoSp), the skater executes on the first foot difficult fly (used), camel
+forward variation, change of foot executed by jump into a normal sit position
+and difficult upright straight variation. In this case the second spin will be
+maximum level 3.
+The same principle applies if in the 2nd spin (FCCoSp), the skater executes four
+features + mandatory used feature. For example: first foot difficult fly (used),
+camel forward variation, difficult blade feature and on the second foot
+normal sit position, jump within a spin into sit position and upright straight
+variation. In this case the spin will be maximum level 3.
+Free Skating: Four features +
+mandatory feature
+successfully
+executed for the
+first time in the
+program; I
+A well balanced Free Skating program for Men & Women (Senior & Junior)
+must contain max of 3 spins:
+one of which must be a spin combination
+one a flying spin or a spin with flying entrance
+one a spin with only one position.
+All Spins must be of a different character. Any Spin with the same character
+(abbreviation)  as  the  one  executed  before  will  not  be  counted  (but  will
+occupy a spinning box).
+f no performed spin has a flying entrance, or if there is no spin in one
+position, or no spin combination, the wrong executed spin will be
+automatically deleted by the computer.: If the skater executes successfully the mandatory feature as 5th feature in a
+spin, it will be counted as feature to get level 4. For example: In SSp, the
+skater executes difficult entrance into sit forward variation, jump within a
+spin into sit sideways variation and increase of speed. In this case, the spin is
+level 4 and all the 5 features will be considered as used in the next spins.
+
+
+The spins must have a required minimum number of revolutions:
+− six (6) for the flying spin and the spin with only one position −
+ten (10) for the spin combination,
+the lack of which must be reflected by Judges in their GOE. This minimum number of required revolutions must be counted from the entry of the spin until its exit (except final wind-up in Spins in one position and Flying spins).
+In the spin combination and spin in one position the change of foot is optional. The number of different positions in the spin combination is free.
+Level features
+1) Difficult variations (count as many times as performed with limitations specified below)
+2) Change of foot executed by jump 3) 4) Difficult change of position on the same foot 5) Difficult entrance 6) Difficult exit 7) Clear change of edge in sit (only from backward inside to forward outside), camel, Layback, Biellmann or difficult variation of an upright position
+Jump within a spin without changing feet
+8) Both directions immediately following each other in sit, camel, Layback or difficult variation of an upright position
+9) Clear increase of speed in camel, sit, Layback, Biellmann or difficult variation of an upright position (except in crossfoot spin)
+10) At least 8 rev. without changes in position/variation, foot or edge (camel, layback, difficult variation of any basic position or for combinations only non-basic position)
+11) Difficult variation of flying entry in flying spins/spins with a flying entrance 12) Difficult blade feature in camel, sit, Layback, Biellmann or difficult variation of an upright position Additional features for the Layback spin:
+13) One clear change of position backwards-sideways or reverse, at least 2 rev. in each position (counts also if the Layback position is a part of any other spin) Biellmann position after Layback spin (SP – after 8 revolutions in layback spin for Junior/Senior and after 6 revolutions for Advanced Novice)
+13) One clear change of position backwards-sideways or reverse, at least 2 rev. in each position (counts also if the Layback position is a part of any other spin) Biellmann position after Layback spin (SP – after 8 revolutions in layback spin for Junior/Senior and after 6 revolutions for Advanced Novice)
+Features 2 – 9, 11 – 14 count only once per program (first time they are attempted). Feature 10 counts only once per program (in the first spin it is successfully performed; if in this spin 8 revs are executed on both feet, any one of these executions can be taken in favor of the skater).
+Any category of difficult spin variation in a basic position counts only once per program (first time it is attempted). A difficult variation in a non-basic position counts once per program in spin combination only (first time it is attempted). In any spin only two (2) difficult variations are counted for level features. In any spin with change of foot the maximum number of features attained on one foot is two (2).
+To receive level 4 in any spin, one of these features must be counted: Difficult change of position on the same foot Difficult exit Clear change of edge Both directions immediately following each other in sit, camel, Layback or difficult variation of an upright position Clear increase of speed Difficult variation of flying entry
+
+
+To get level 4
+Four features + mandatory feature successfully executed for the first time in the program
+Feature together with a used position
+Features considered executed together at the same time
+One of the mandatory six features must be performed successfully and counted in a spin in order to get level 4. If one of these mandatory features is “used”, level 4 cannot be given. For example: In the first spin (FSSp), the following features are counted: Difficult fly, sit forward variation, sit side variation and 8 revolutions. This first spin will be level 4. In the second spin (FCCoSp), the skater executes on the first foot difficult fly (used), camel forward variation, change of foot executed by jump into a normal sit position and difficult upright straight variation. In this case the second spin will be maximum level 3. The same principle applies if in the 2nd spin (FCCoSp), the skater executes four features + mandatory used feature. For example: first foot difficult fly (used), camel forward variation, difficult blade feature and on the second foot normal sit position, jump within a spin into sit position and upright straight variation. In this case the spin will be maximum level 3.
+If the skater executes successfully the mandatory feature as 5th feature in a spin, it will be counted as feature to get level 4. For example: In SSp, the skater executes difficult entrance into sit forward variation, jump within a spin into sit sideways variation and increase of speed. In this case, the spin is level 4 and all the 5 features will be considered as used in the next spins.
+For a feature to count in any spin, it must not be executed together with a used difficult variation position. Difficult variation positions (11 categories) are described on page 14. Examples of feature together with a used difficult variation: 1st spin: FCSp: Difficult fly, camel forward, camel sideways with 8 revolutions (4 accepted features) 2nd spin: CCoSp: Sit forward, difficult change of position into camel forward, change of foot, upright straight, difficult exit (3 accepted features: sit forward, upright straight and difficult exit. Camel forward is used from FCSp and since executed at the same time with difficult change of position, the difficult change of position is not counted. 3rd spin: SSp: Difficult entrance, sit forward with a change of edge, sit sideways and sit behind (3 accepted features: difficult entrance, sit sideways and sit behind. Sit forward is used in CCoSp and since executed at the same time with change of edge, the change of edge does not count).
+The following features cannot be executed at the same time with a used difficult variation: Difficult change of position Change of edge Both directions Increase of speed 8 revolutions Difficult blade feature Change of position side to back in Layback/Sideways
+Таблица 18 (страницы 11, 12):
+Features
+considered
+executed together
+at the same time: Spin with no
+change of position; The following features cannot be executed at the same time with a used
+difficult variation:
+Difficult change of position
+Change of edge
+Both directions
+Increase of speed
+8 revolutions
+Difficult blade feature
+Change of position side to back in Layback/Sideways: A “spin with no change of position”, in which another basic position is
+executed with more than two (2) revolutions, does not fulfil the requirements
+of a spin with “no change of position” and will be identified as a “spin
+combination”. However, the concluding upright position at the end of the
+spin (final wind-up) is not considered to be another position independent of
+the number of revolutions, as long as in such a final wind-up no additional
+feature is executed (change of edge, variation of position etc.)
+
+
+Positions
+Spin with no change of position
+Spin combination with less than 2 revolutions in basic positions
+Spin combination with all 3 basic positions executed on the second foot
+Spin combination with only two basic positions
+Difficult change of position on the same foot
+Change not considered as difficult
+Change from basic position to non- basic position in spin in one position
+Clear change of position backwards- sideways or visa- versa (layback spin)
+Clarifications
+A “spin with no change of position”, in which another basic position is executed with more than two (2) revolutions, does not fulfil the requirements of a spin with “no change of position” and will be identified as a “spin combination”. However, the concluding upright position at the end of the spin (final wind-up) is not considered to be another position independent of the number of revolutions, as long as in such a final wind-up no additional feature is executed (change of edge, variation of position etc.)
+In Short Program a spin combination executed with only 1 basic position with not less than 2 revolutions and in all other positions less than 2 revolutions will receive “no value“.
+In Free Skating a clear visible attempt of a spin combination which results in a spin with only 1 basic position with not less than 2 revolutions will be called by the Technical Panel as a spin combination “no value”.
+All 3 basic positions on the second foot is no longer a level feature.
+A spin combination with and without change of foot which includes only 2 basic positions with not less than 2 revolutions will have a lower base value in comparison with a spin combination with all 3 basic positions with not less than 2 revolutions. The corresponding base values are listed in the SOV in the “V” row.
+Change from a basic position to a different basic position without establishing a non-basic position, requiring significant strength, skill and control and having an impact on the ability to execute the position change. Continuous movement must be performed throughout the change. May not include a jump to execute the change. The basic positions before and after the change must be held for 2 revolutions.
+If a change of position is not considered as “difficult” by the Technical Panel, it may be awarded in a later spin.
+If the skater executes a basic position and after that changes to a non-basic position, this is not considered as a change of position and the spin does not become a spin combination. If a skater executes a difficult variation of non- basic position, this feature will not be counted in this spin (for example a skater executes a camel spin where the feature of windmill (NBP) is included).
+The feature will be awarded only if this change is done while maintaining the layback or sideways leaning position. Two (2) revolutions in each of these positions are required.
+Таблица 23 (страницы 12, 13):
+Clear change of
+position
+backwards-
+sideways or visa-
+versa (layback
+spin): D
+ifficult entrance
+and Difficult exit; The feature will be awarded only if this change is done while maintaining the
+layback  or  sideways  leaning  position.  Two  (2)  revolutions  in  each  of  these
+positions are required.: T
+Difficult entrance and difficult exit are two different features. To get credit for
+both
+features
+they  must  be  executed
+two  different
+spins  and
+the
+movements must be of different nature. For example, if a skater uses difficult
+turns as entrance, the difficult exit cannot be done only with turns (same type
+of  movement).  When  executing  the  difficult  entrance  or  exit  with  turns,  the
+turns must be clean.
+he entrance is defined as the preparation immediately preceding a spin and
+may
+include  the  beginning  phase  of  a  spin.
+The  entrance  must  have  a
+significant impact on the balance, control and execution of the spin and must
+be performed on the first spinning foot.
+The intended basic spin position must be reached within the first 2 revolutions.
+The position can be non-basic in spin combinations only.
+A regular backward entry is not considered as a difficult entry.
+The exit out of the spin is defined as the last phase of the spin and includes
+the phase immediately following the spin. Difficult exit: Any movement or
+jump movement that makes the exit significantly more difficult. The exit
+must have a significant impact on the balance, control and execution of the
+spin.
+In Flying spins and spins in one position the difficult exit must be started
+from a basic position (not final windup), which must be at least reached. In
+spin combinations the difficult exit can be started from any position.
+If the entrance or exit of a spin is not considered “difficult” by the Technical
+Panel, it is considered as a transition and the feature can still be awarded in a
+later spin. A listed jump that is called and executed immediately after a spin
+is not considered as difficult exit of a spin.
+
+
+Entrance/Exit of the spin
+Difficult entrance and Difficult exit
+Difficult entrance and difficult exit are two different features. To get credit for both features they must be executed in two different spins and the movements must be of different nature. For example, if a skater uses difficult turns as entrance, the difficult exit cannot be done only with turns (same type of movement). When executing the difficult entrance or exit with turns, the turns must be clean.
+The entrance is defined as the preparation immediately preceding a spin and may include the beginning phase of a spin. The entrance must have a significant impact on the balance, control and execution of the spin and must be performed on the first spinning foot. The intended basic spin position must be reached within the first 2 revolutions. The position can be non-basic in spin combinations only. A regular backward entry is not considered as a difficult entry.
+The exit out of the spin is defined as the last phase of the spin and includes the phase immediately following the spin. Difficult exit: Any movement or jump movement that makes the exit significantly more difficult. The exit must have a significant impact on the balance, control and execution of the spin.
+In Flying spins and spins in one position the difficult exit must be started from a basic position (not final windup), which must be at least reached. In spin combinations the difficult exit can be started from any position.
+If the entrance or exit of a spin is not considered “difficult” by the Technical Panel, it is considered as a transition and the feature can still be awarded in a later spin. A listed jump that is called and executed immediately after a spin is not considered as difficult exit of a spin.
+Difficult entrance and exit in the same spin
+In order to get feature for both difficult entrance and difficult exit, they must be executed in different spins. If a skater executes in a Sit spin difficult entrance, sit sideways difficult variation, sit behind difficult variation with 8 revolutions and difficult exit, the technical panel can take the difficult exit as a feature to award Level 4 in this spin. All five features are used in the next spins.
+Difficult and flying entrance
+If the entrance is “difficult” and “flying” at the same time, only the “flying” feature can be awarded.
+Difficult entrance to a regular flying camel is not counted as a Level feature and “difficult entrance” in this case is not considered as used.
+Note that a difficult entrance and a difficult variation of flying entry are two different features so the skater is allowed to execute e.g. Toe Arabian as difficult variation of flying entry and Toe Arabian as difficult exit in the same spin. In this case the skater gets two level features.
+Difficult variation of flying position in flying spins/spins with a flying entry
+The feature for the flying entry can be granted only if there is a clear visible jump and if the flying position is really difficult. The intended basic position must be reached within the first two (2) revolutions after the landing. The difficult fly may include but is not limited to: in a flying sit spin/ entry: total sit position in the air (with height and total movement control) or open butterfly position in the air taking sit position immediately after landing; in a
+Таблица 26 (страницы 13, 14):
+Difficult variation
+of flying position in
+flying spins/spins
+with a flying entry: Simple variation; The feature for the flying entry can be granted only if there is a clear visible
+jump and if the flying position is really difficult. The intended basic position
+must be reached within the first two (2) revolutions after the landing.
+The difficult fly may include but is not limited to: in a flying sit spin/ entry:
+total sit position in the air (with height and total movement control) or open
+butterfly position in the air taking sit position immediately after landing; in a: A simple variation of position is a movement of a body part, leg, arm, hand or
+head, which does not have an effect on the balance of the main body core.
+A simple variation does not increase the Level.
+Difficult variation
+of flying position in
+flying spins/spins
+with a flying entry: Difficult variation; The feature for the flying entry can be granted only if there is a clear visible
+jump and if the flying position is really difficult. The intended basic position
+must be reached within the first two (2) revolutions after the landing.
+The difficult fly may include but is not limited to: in a flying sit spin/ entry:
+total sit position in the air (with height and total movement control) or open
+butterfly position in the air taking sit position immediately after landing; in a: A
+A difficult variation is a movement of a body part/leg/arm/hand/head, which
+requires more physical strength or flexibility and has an effect on the balance
+of the main body core.
+ny difficult variation must be held for two (2) revolutions to be counted.
+Only these variations can increase the Level.
+
+
+Variations
+Simple variation
+Difficult variation
+More than 2 difficult variations executed in any spin
+Categories of difficult variations
+Crossfoot spin
+flying camel spin/entry: clear butterfly entrance or almost split position in the air. Normal flying camel entry does not block a possibility of counting a difficult flying entry as a feature.
+A simple variation of position is a movement of a body part, leg, arm, hand or head, which does not have an effect on the balance of the main body core. A simple variation does not increase the Level.
+A difficult variation is a movement of a body part/leg/arm/hand/head, which requires more physical strength or flexibility and has an effect on the balance of the main body core.
+Any difficult variation must be held for two (2) revolutions to be counted. Only these variations can increase the Level.
+In any spin only two difficult variations are counted for level features. If the skater attempts more than two difficult variations, the counted variations do not have to be the first two variations performed in the spin. For example, the skater executes on the first foot difficult entrance into camel position, sit forward difficult variation with a change of edge and on the second foot sit behind difficult variation and upright straight difficult variation. In this case the features counted would be difficult entrance, change of edge, sit behind and upright straight. All the difficult variations and features attempted will be considered as used for the next spins.
+There are 11 categories of difficult variations:
+− CAMEL POSITION there are 3 categories based on direction of the
+shoulder line:
+(CF) Camel Forward: shoulder line parallel to the ice (CS) Camel Sideways: shoulder line twisted to a vertical position (CU) Camel Upward: shoulder line twisted more than to a vertical position
+− SIT POSITION there are 3 categories based on position of free leg:
+(SF) Sit Forward: free leg forward (SS) Sit Sideways: free leg sideways (SB) Sit Behind: free leg behind
+− UPRIGHT SPIN there are 3 categories based on position of torso: (UF) Upright Forward: torso leaning forward (US) Upright Straight or Sideways: torso straight up or sideways (UB) Upright Biellmann: in Biellmann position
+− LAYBACK POSITION there is 1 category (UL) Upright Layback
+− NON-BASIC POSITIONS there is 1 category (NBP)
+A Crossfoot Spin must be executed on both feet with equal weight distribution. Toes should be held close together and heels open. A Crossfoot spin is considered as a difficult variation of upright position (US) and will receive, if correctly executed, a feature awarded to the foot before the cross.
+It is not required to stay on one foot for three revolutions before the cross. Increase of speed during a crossfoot spin is not considered as a feature.
+Таблица 27 (страницы 14, 15):
+ore than 2
+difficult variations
+executed in any
+spin: Categories of
+difficult variations; : 0
+skater attempts more than two difficult variations, the counted variations do
+not have to be the first two variations performed in the spin. For example, the
+skater executes on the first foot difficult entrance into camel position, sit
+forward difficult variation with a change of edge and on the second foot sit
+behind difficult variation and upright straight difficult variation. In this case
+the features counted would be difficult entrance, change of edge, sit behind
+and upright straight. All the difficult variations and features attempted will be
+considered as used for the next spins.: There are 11 categories of difficult variations:
+CAMEL POSITION there are 3 categories based on direction of the
+shoulder line:
+(CF) Camel Forward: shoulder line parallel to the ice
+(CS) Camel Sideways: shoulder line twisted to a vertical position
+(CU) Camel Upward: shoulder line twisted more than to a
+vertical position
+SIT POSITION there are 3 categories based on position of free leg:
+(SF) Sit Forward: free leg forward
+(SS) Sit Sideways: free leg sideways
+(SB) Sit Behind: free leg behind
+UPRIGHT SPIN there are 3 categories based on position of torso:
+(UF) Upright Forward: torso leaning forward
+(US) Upright Straight or Sideways: torso straight up or sideways
+(UB) Upright Biellmann: in Biellmann position
+LAYBACK POSITION there is 1 category
+(UL) Upright Layback
+NON-BASIC POSITIONS there is 1 category (NBP)
+ore than 2
+difficult variations
+executed in any
+spin: Crossfoot spin; : 0
+skater attempts more than two difficult variations, the counted variations do
+not have to be the first two variations performed in the spin. For example, the
+skater executes on the first foot difficult entrance into camel position, sit
+forward difficult variation with a change of edge and on the second foot sit
+behind difficult variation and upright straight difficult variation. In this case
+the features counted would be difficult entrance, change of edge, sit behind
+and upright straight. All the difficult variations and features attempted will be
+considered as used for the next spins.: A Crossfoot Spin must be executed on both feet with equal weight
+skater attempts more than two difficult variations, the counted variations do
+not have to be the first two variations performed in the spin. For example, the
+skater executes on the first foot difficult entrance into camel position, sit
+forward difficult variation with a change of edge and on the second foot sit
+behind difficult variation and upright straight difficult variation. In this case
+the features counted would be difficult entrance, change of edge, sit behind
+and upright straight. All the difficult variations and features attempted will be
+considered as used for the next spins.: I
+distribution. Toes should be held close together and heels open. A Crossfoot
+spin is considered as a difficult variation of upright position (US) and will
+receive, if correctly executed, a feature awarded to the foot before the cross.
+t is not required to stay on one foot for three revolutions before the cross.
+Increase of speed during a crossfoot spin is not considered as a feature.
+ore than 2
+difficult variations
+executed in any
+spin: Headless spin; : 0
+skater attempts more than two difficult variations, the counted variations do
+not have to be the first two variations performed in the spin. For example, the
+skater executes on the first foot difficult entrance into camel position, sit
+forward difficult variation with a change of edge and on the second foot sit
+behind difficult variation and upright straight difficult variation. In this case
+the features counted would be difficult entrance, change of edge, sit behind
+and upright straight. All the difficult variations and features attempted will be
+considered as used for the next spins.: In ”Headless” variation the head and neck have to move backwards from the
+main axis of the body core affecting the balance.
+
+
+Headless spin
+In ”Headless” variation the head and neck have to move backwards from the main axis of the body core affecting the balance.
+Biellmann position Biellmann position is a difficult variation of an upright position (UB) when the
+skater’s free leg is pulled from behind to a position higher than and towards the top of the head, close to the spinning axis of the skater. Like other categories of difficult spin variations, Biellmann position counts once per program (Short or Free) – first time it’s attempted.
+In free skating a spin that starts with layback position (at least 2 revs) and continues with Upright Biellmann variation is still called a layback spin.
+Sit Forward and Sit Side
+The Sit Forward and Sit Side positions must also include a difficult variation which is a movement of a body part/leg/arm/hand/head, which requires more physical strength or flexibility and has an effect on the balance of the main body core. In Sit Side position where the arms are placed underneath the legs, the skater must show effect on the balance of the main body core by bending the upperbody and head downwards.
+Windmill
+Windmill (illusion) is considered as a difficult movement for a feature only if it reaches close to a split position (at least 135 degrees). This movement must show physical strength or flexibility and have an effect on the balance of the main body core. These requirements apply also to the windmill holding the blade (picture below).
+Windmill can be considered as a Level feature for difficult variation of non- basic position (must be done at least 3 times in a row) or difficult change of position. Windmill is no longer considered as a difficult entry or exit except when holding the blade and executed on the spinning foot. If the skater touches the ice with one or two hands, the feature is not counted.
+Windmill is counted as a feature only once in the program and only the first time it is attempted. For example, if a skater has in the flying camel spin a difficult exit as windmill holding the blade and later in the program in a spin combination difficult change of position with a windmill, the second windmill will be considered as used and not counted as a feature.
+If the windmill is attempted as an entry into a spin using any free leg position, it is considered as used even if not awarded as difficult entry. The difficult entry can still be awarded in another spin.
+Repetitions
+Any category of difficult spin variation in a basic position counts only once per program (first time it is attempted). A difficult variation in a non-basic position counts once per program in spin combination only (first time it is attempted).
+
+
+What is an attempt?
+Similar variations in basic and in non-basic positions
+Free leg drops
+Too long to reach basic position
+Jump on the same foot and Increase of speed Jump on the same foot within a Spin
+Increase of speed
+A difficult variation is considered as attempted when this variation is clearly visible, independent of the fact this variation was counted or not.
+If a skater executes a similar variation in non-basic position and basic position, two level features are counted only if these variations are done on different feet either in the same spin or in different spins during the same program. In case the two variations are too similar, the last one performed will not count and will be considered as a used position. If a skater executes other features during the used position, these features do not also count.
+If the free leg drops down for a long time while preparing for a difficult camel variation, the corresponding Level feature is still awarded, but the Judges will apply the GOE reduction.
+The GOE reduction will also be applied if it takes a long time for the skater to reach the necessary basic position in spins in one position.
+In any spin a clear jump started and landed on the same foot will be counted as a feature only if the skater reaches the basic position within the first 2 revolutions after the landing.
+This jump has no requirements to the air position, but it must show significant strength and skill.
+This jump can be performed even before the required minimum number of revolutions in a spin in order to be considered as a feature in both Short Program and Free Skating.
+For camel, sit, layback, Biellmann and difficult variation of upright positions (except crossfoot spin), once the position has been established, a clear increase of speed will be considered as a Level feature. It is not valid as a feature if the increase of speed happens while going from one basic position to another basic position. It is allowed to perform increase of speed going from layback to sideways position or vice versa as long as the skater does not execute the change by rising to an upright position. If a skater executes increase of speed changing the position from sit sideways to sit behind difficult variation, this is counted as long as the skater maintains the basic sit position and does not rise to a nonbasic position.
+Таблица 31 (страницы 16):
+Similar variations
+in basic and in
+non-basic
+positions: Free leg drops; If a skater executes a similar variation in non-basic position and basic position,
+two level features are counted only if these variations are done on different feet
+either in the same spin or in different spins during the same program. In case
+the two variations are too similar, the last one performed will not count and will
+be considered as a used position. If a skater executes other features during the
+used position, these features do not also count.: If the free leg drops down for a long time while preparing for a difficult camel
+variation, the corresponding Level feature is still awarded, but the Judges will
+apply the GOE reduction.
+Таблица 33 (страницы 16, 17):
+Increase of speed: Clear change of
+edge; For camel, sit, layback, Biellmann and difficult variation of upright positions
+(except crossfoot spin), once the position has been established, a clear
+increase of speed will be considered as a Level feature.
+It is not valid as a feature if the increase of speed happens while going from
+one basic position to another basic position. It is allowed to perform increase
+of speed going from layback to sideways position or vice versa as long as the
+skater does not execute the change by rising to an upright position. If a skater
+executes increase of speed changing the position from sit sideways to sit
+behind difficult variation, this is counted as long as the skater maintains the
+basic sit position and does not rise to a nonbasic position.: A
+A clear change of edge can only be counted as a feature in:
+Sit position from backward inside to forward outside edge
+Camel position
+Layback position
+Biellmann position
+Difficult variation of Upright position
+Any  other  attempt  of  a  change  of  edge  will  be  ignored,  not  blocking  the
+possibility to credit it elsewhere. Not considered as an attempt of a change of
+edge is the short phase following a landing of a fly or a step-in (mostly from
+flat to edge, or executing a three turn, etc.).
+clear change of edge can only be counted as a feature, if there are at least 2
+continuous
+revolutions  on  one  edge
+followed  by  at
+least  2  continuous
+revolutions  on  the  other  edge
+in  the  same  position  (sit,  camel,  Layback,
+Biellmann or difficult variation of upright position).
+change of edge within a normal upright or non-basic position does not count
+as a feature.
+
+
+Edges and directions Clear change of edge
+Spinning in both directions
+Spinning in both directions on the same foot
+Number of Revolutions 8 revolutions
+Change of foot Staying on the same foot
+Simple change of foot
+A clear change of edge can only be counted as a feature in:
+− Sit position from backward inside to forward outside edge − Camel position − Layback position − Biellmann position − Difficult variation of Upright position
+Any other attempt of a change of edge will be ignored, not blocking the possibility to credit it elsewhere. Not considered as an attempt of a change of edge is the short phase following a landing of a fly or a step-in (mostly from flat to edge, or executing a three turn, etc.).
+A clear change of edge can only be counted as a feature, if there are at least 2 continuous revolutions on one edge followed by at least 2 continuous revolutions on the other edge in the same position (sit, camel, Layback, Biellmann or difficult variation of upright position).
+A change of edge within a normal upright or non-basic position does not count as a feature.
+Spinning in both directions (clockwise & counter-clockwise or visa-versa) in sit, camel, Layback or difficult variation of an upright position immediately following each other can be counted as a feature. A minimum of 3 revolutions in each direction is required and the position before and after the change of direction must be held for at least 2 revolutions. A spin executed in both directions (clockwise & counter-clockwise) is considered as one spin. In case of spin in both directions on the same foot, one turn or one change of edge is allowed when changing the direction. The feature is counted on the foot of execution.
+At least 8 revolutions without changes in position/variation, foot or edge count as a feature only once per program, in the first spin it is successfully performed; if in this spin 8 revs are executed on both feet, any one of these executions can be taken by the Technical Panel in favor of the skater. The 8 revolutions to be counted as feature must be performed in:
+− camel, layback, difficult variation of any basic position – for all spins; − difficult variation of non-basic position – for combinations only.
+A change of foot in a spin means spinning on each foot. Any spin in which the skater remains spinning on the same foot is not considered as a change of foot spin.
+A simple change of foot, e.g. a step or a small hop does not require significant strength and skill and does not increase the Level.
+Таблица 34 (страницы 17):
+Spinning in both
+directions: Spinning in both
+directions on the
+same foot; Spinning in both directions (clockwise & counter-clockwise or visa-versa) in sit,
+camel,  Layback  or  difficult  variation  of  an  upright  position
+immediately
+following each other can be counted as a feature. A minimum of 3 revolutions
+in each direction is required and the position before and after the change of
+direction must be held for at least 2 revolutions.
+spin  executed
+in  both  directions
+(clockwise  &  counter-clockwise)
+considered as one spin.: In case of spin in both directions on the same foot, one turn or one change of
+edge is allowed when changing the direction. The feature is counted on the
+foot of execution.
+Таблица 35 (страницы 17, 18):
+8 revolutions: Change of foot
+executed by jump; At least 8 revolutions without changes in position/variation, foot or edge count
+as a feature only once per program, in the first spin it is successfully performed;
+if in this spin 8 revs are executed on both feet, any one of these executions can
+be taken by the Technical Panel in favor of the skater.
+The 8 revolutions to be counted as feature must be performed in:
+camel, layback, difficult variation of any basic position – for all spins;
+difficult variation of non-basic position – for combinations only.: T
+Such change of foot can be counted as a feature only if the skater reaches
+the basic position within the first 2 revolutions after the landing.
+his jump has no requirements to the air position, but it must show
+significant strength and skill.
+
+
+Change of foot executed by jump
+Toe Arabian as change of foot
+Difficult blade feature
+Spin with a second change of foot
+Spinning centers too far apart (spin in one position and spin combination)
+Number of features on one foot for spins with a change of foot
+Such change of foot can be counted as a feature only if the skater reaches the basic position within the first 2 revolutions after the landing.
+This jump has no requirements to the air position, but it must show significant strength and skill.
+This change of foot is allowed, will be considered as a change of foot executed by jump and will count as a feature both in Short program and Free Skating.
+The skater is using the blade in a way that has a significant impact on the balance, control and execution of the spin. The feature must be executed in camel, sit, Layback, Biellmann or difficult variation of an upright position. The position must be maintained throughout the whole feature and can be achieved for example by spinning on the heel or toe of the blade. The feature must be performed in control inside the spin and spinning must continue after the feature. The movement needs to be clearly identifiable and visible. The difficult blade feature is not considered as a difficult exit. If a skater performs the blade feature at the end of the spin, it is not considered as a used difficult exit attempt. If the skater executes the difficult blade feature together with another feature (for example difficult change of position or difficult exit), only one feature will be counted and difficult blade feature is not used. It is allowed to execute blade feature together with a difficult variation position. In this case both features will be counted (for example sit forward difficult variation and difficult blade feature). The second change of foot (if attempted) in a spin with change of foot is not allowed in Short Program (wrong element). In Free skating the skater is allowed to change feet multiple times.
+If, in a spin with change of foot, there is a curve of exit after the first part and a curve of entry into the second part, the consequences are as follows:
+− Short Program - the spin is not fulfilling the requirements and no
+value will be given;
+− Free Skating - the second part of the spin will be ignored and the
+element becomes a spin in one position with no change of foot or a spin combination with no change of foot.
+If there is only a curve of exit after the first part or the curve of entry into the second part, this will result in GOE reduction for “Change of foot poorly done” (this reduction does not relate to change of foot together with change of direction).
+The maximum number of features that a skater can get on one foot is 2.
+The feature for difficult entry will be counted in the quota of the foot before the change.
+The features “Change of foot executed by jump” and ”Spinning in both directions” will be counted in the quota of the foot after the change of foot during which the feature is performed. The feature for a cross foot spin will be counted in the quota of the foot on which the cross position was started.
+Таблица 36 (страницы 18):
+Difficult blade
+feature: Spin with a second
+change of foot; The skater is using the blade in a way that has a significant impact on the
+balance, control and execution of the spin. The feature must be executed in
+camel, sit, Layback, Biellmann or difficult variation of an upright position. The
+position must be maintained throughout the whole feature and can be
+achieved for example by spinning on the heel or toe of the blade. The feature
+must be performed in control inside the spin and spinning must continue
+after the feature. The movement needs to be clearly identifiable and visible.
+The difficult blade feature is not considered as a difficult exit. If a skater
+performs the blade feature at the end of the spin, it is not considered as a
+used difficult exit attempt.
+If the skater executes the difficult blade feature together with another
+feature (for example difficult change of position or difficult exit), only one
+feature will be counted and difficult blade feature is not used. It is allowed to
+execute blade feature together with a difficult variation position. In this case
+both features will be counted (for example sit forward difficult variation and
+difficult blade feature).: The second change of foot (if attempted) in a spin with change of foot is not
+allowed in Short Program (wrong element). In Free skating the skater is
+allowed to change feet multiple times.
+Таблица 38 (страницы 18, 19):
+Number of features
+on one foot for
+spins with a change
+of foot: Spin in one position
+with change of foot:
+less than 2
+revolutions in a
+basic position on
+one foot; T
+The maximum number of features that a skater can get on one foot is 2.
+he feature for difficult entry will be counted in the quota of the foot before
+the change.
+he features “Change of foot executed by jump” and ”Spinning in both
+directions” will be counted in the quota of the foot after the change of foot
+during which the feature is performed. The feature for a cross foot spin will
+be counted in the quota of the foot on which the cross position was started.: If a spin in one position with change of foot is executed with a basic position
+with not less than 2 revolutions on one foot only and no basic position with
+not less than 2 revolutions on the other foot, it will receive:
+In Short Program “no value“.
+In Free Skating it will be marked with sign “V”.
+
+
+Spin in one position with change of foot: less than 2 revolutions in a basic position on one foot
+“V” sign
+CAMEL FORWARD
+CAMEL SIDEWAYS
+CAMEL UPWARD
+SIT FORWARD
+If a spin in one position with change of foot is executed with a basic position with not less than 2 revolutions on one foot only and no basic position with not less than 2 revolutions on the other foot, it will receive: In Short Program “no value“. In Free Skating it will be marked with sign “V”.
+“V” sign can be awarded only in 4 situations:
+1) 2) 3)
+In Flying spin only: for stepping over and no clear visible jump; In Spin Combination: for only two basic positions: In any change foot spin with less than 3 revolutions on one foot (Free Skating only).
+4) In Spin in one position with change of foot: less than 2 revolutions in a basic position on one foot (Free Skating only).
+If in a CCoSp there are only 2 basic positions and less than 3 revolutions on one foot or in Spin in one position with change of foot there are less than 2 revolutions in a basic position and less than 3 revolutions on one foot “V” sign will be awarded. These cases of multiple errors will be reflected by the judges in GOE. In case the skater has chosen to execute only 2 positions, this is not regarded as an error in GOE by the judges.
+CAMEL POSITIONS
+SIT POSITIONS
+
+
+SIT SIDEWAYS
+SIT BEHIND
+UPRIGHT FORWARD
+UPRIGHT STRAIGHT AND SIDEWAYS
+UPRIGHT BIELLMANN
+UPRIGHT LAYBACK
+NBP
+NON-BASIC POSITIONS
+UPRIGHT POSITIONS
+NON-BASIC POSITIONS
+
+
+Solo jump Short Program
+Free Skating
+Jump Elements
+Rules
+Short Program of the season 2025 – 2026 must include 2 solo jumps:
+− double or triple Axel for Senior & Junior Men and for Senior Women,
+double Axel for Junior Women;
+− a solo jump:
+− Senior Men - any triple or a quadruple jump; − Senior Women - any triple jump; − Junior Men and Women - double or triple Loop
+For Senior Men when a quadruple jump is executed in a jump combination, a different quadruple jump can be included as a solo jump.
+For Senior & Junior Men and for Senior Women, when the triple Axel is executed as an Axel jump, it cannot be repeated again as a solo jump or in the jump combination.
+Solo jumps must be different from the jumps included in the combination.
+As per rule 611, paragraph 2 and 3, quint jumps are not permitted.
+Jumping elements are solo jumps, jump combinations and jump sequences.
+A well balanced Free Skating program must contain: 7 jumping elements for Senior & Junior, Men & Women one of which must be (or must include) an Axel type jump.
+Solo jumps can contain any number of revolutions. Any double jump (including double Axel) cannot be included more than twice in total in a Single’s Free Program (as a Solo Jump or a part of Combination / Sequence).
+Of all triple and quadruple and quint jumps only two (2) can be executed twice. Of the two repetitions only one (1) can be a quadruple jump or a quint jump. If both executions are as solo jumps, the second of these solo jumps will be attributed 70% of its numerical value according to the Scale of Value.
+Triple and quadruple and quint jumps with the same name will be considered as three different jumps. No triple or quadruple or quint jump can be attempted more than twice.
+As per rule 612, paragraph 2, quint jumps in the Free Skating are only possible as individual jumps but NOT as part of a jump combination or a jump sequence.
+Таблица 44 (страницы 21, 22):
+Free Skating: General; A
+Jumping elements are solo jumps, jump combinations and jump
+sequences.
+well balanced Free Skating program must contain: 7 jumping elements
+for Senior & Junior, Men & Women one of which must be (or must
+include) an Axel type jump.
+olo jumps can contain any number of revolutions.
+Any double jump (including double Axel) cannot be included more than
+twice in total in a Single’s Free Program (as a Solo Jump or a part of
+Combination / Sequence).
+Of all triple and quadruple and quint jumps only two (2) can be executed
+twice. Of the two repetitions only one (1) can be a quadruple jump or a
+quint jump.  If both executions are as solo jumps, the second of these solo
+jumps will be attributed 70% of its numerical value according to the Scale
+of Value.
+riple and quadruple and quint jumps with the same name will be
+considered as three different jumps. No triple or quadruple or quint jump
+can be attempted more than twice.
+s per rule 612, paragraph 2, quint jumps in the Free Skating are only
+possible as individual jumps but NOT as part of a jump combination or a
+jump sequence.: In a jump combination the landing foot of a jump is the take-off foot of the
+next jump. One full revolution on the ice between the jumps (free foot can
+touch the ice, but no weight transfer) keeps the element in the frame of the
+definition of a jump combination.
+An Euler, when used in combinations between two listed jumps, becomes a
+listed jump (1Eu) with the value indicated in the SOV.
+Single  Euler  (1Eu)  missing  half  a  revolution  or  more  will  be  considered  as
+downgraded.
+this  case
+the
+judges  will  apply
+the
+reduction
+for  a
+downgraded jump (<<).
+If  the  Single  Euler  is  missing  less  than  half  a  revolution,  it  will  not  be
+considered  as  under-rotated  (<)  or  as  landed  on  the  quarter  (q)  by  the
+Technical panel. If the Single Euler is not clearly jumped or it is executed as
+a step over, the judges will apply a reduction in GOE.
+If in the opinion of the TP the intended Waltz jump (Axel) is used only as the
+preparation to the next jump, this Waltz jump will not be called.
+The TP has the authority not to call a single jump which is more similar to a
+hop than a jump that is a result of a bad landing of the previous jump. The
+Judges will reflect the mistake in the GOE.
+Free Skating: Listed jump + 1Eu +
+three turn on the
+same foot + Axel
+type jump; A
+Jumping elements are solo jumps, jump combinations and jump
+sequences.
+well balanced Free Skating program must contain: 7 jumping elements
+for Senior & Junior, Men & Women one of which must be (or must
+include) an Axel type jump.
+olo jumps can contain any number of revolutions.
+Any double jump (including double Axel) cannot be included more than
+twice in total in a Single’s Free Program (as a Solo Jump or a part of
+Combination / Sequence).
+Of all triple and quadruple and quint jumps only two (2) can be executed
+twice. Of the two repetitions only one (1) can be a quadruple jump or a
+quint jump.  If both executions are as solo jumps, the second of these solo
+jumps will be attributed 70% of its numerical value according to the Scale
+of Value.
+riple and quadruple and quint jumps with the same name will be
+considered as three different jumps. No triple or quadruple or quint jump
+can be attempted more than twice.
+s per rule 612, paragraph 2, quint jumps in the Free Skating are only
+possible as individual jumps but NOT as part of a jump combination or a
+jump sequence.: Skater executes Listed jump + 1Eu + three turn on the same foot + Axel
+type jump. This is considered as a jump combination and will be called
+“Listed jump+1Eu+Axel type jump”. For example: 3F+1Eu+three turn on the
+same foot+2A is called 3F+1Eu+2A. One intended three turn, rocker,
+counter or bracket in between two or three listed jumps keeps the
+element in the frame of a jump combination. There is no reduction in GOE
+for the intended turn.
+Free Skating: Listed jump + one
+intended change
+of edge + Listed
+jump in the other
+rotational direction; A
+Jumping elements are solo jumps, jump combinations and jump
+sequences.
+well balanced Free Skating program must contain: 7 jumping elements
+for Senior & Junior, Men & Women one of which must be (or must
+include) an Axel type jump.
+olo jumps can contain any number of revolutions.
+Any double jump (including double Axel) cannot be included more than
+twice in total in a Single’s Free Program (as a Solo Jump or a part of
+Combination / Sequence).
+Of all triple and quadruple and quint jumps only two (2) can be executed
+twice. Of the two repetitions only one (1) can be a quadruple jump or a
+quint jump.  If both executions are as solo jumps, the second of these solo
+jumps will be attributed 70% of its numerical value according to the Scale
+of Value.
+riple and quadruple and quint jumps with the same name will be
+considered as three different jumps. No triple or quadruple or quint jump
+can be attempted more than twice.
+s per rule 612, paragraph 2, quint jumps in the Free Skating are only
+possible as individual jumps but NOT as part of a jump combination or a
+jump sequence.: Listed jump + one intended change of edge + Listed jump in the other
+rotational direction. This is considered as a jump combination. For
+example: 3S+change of edge+2S in the other rotational direction is called
+3S+2S. When executing jumps in both directions in a jump combination,
+one change of edge is allowed in between the jumps. There is no reduction
+in GOE for the intended change of edge.
+
+
+Jump combination General
+Listed jump + 1Eu + three turn on the same foot + Axel type jump
+Listed jump + one intended change of edge + Listed jump in the other rotational direction
+Short Program
+In a jump combination the landing foot of a jump is the take-off foot of the next jump. One full revolution on the ice between the jumps (free foot can touch the ice, but no weight transfer) keeps the element in the frame of the definition of a jump combination. An Euler, when used in combinations between two listed jumps, becomes a listed jump (1Eu) with the value indicated in the SOV. Single Euler (1Eu) missing half a revolution or more will be considered as downgraded. In this case the judges will apply the reduction for a downgraded jump (<<). If the Single Euler is missing less than half a revolution, it will not be considered as under-rotated (<) or as landed on the quarter (q) by the Technical panel. If the Single Euler is not clearly jumped or it is executed as a step over, the judges will apply a reduction in GOE. If in the opinion of the TP the intended Waltz jump (Axel) is used only as the preparation to the next jump, this Waltz jump will not be called. The TP has the authority not to call a single jump which is more similar to a hop than a jump that is a result of a bad landing of the previous jump. The Judges will reflect the mistake in the GOE. Skater executes Listed jump + 1Eu + three turn on the same foot + Axel type jump. This is considered as a jump combination and will be called “Listed jump+1Eu+Axel type jump”. For example: 3F+1Eu+three turn on the same foot+2A is called 3F+1Eu+2A. One intended three turn, rocker, counter or bracket in between two or three listed jumps keeps the element in the frame of a jump combination. There is no reduction in GOE for the intended turn.
+Listed jump + one intended change of edge + Listed jump in the other rotational direction. This is considered as a jump combination. For example: 3S+change of edge+2S in the other rotational direction is called 3S+2S. When executing jumps in both directions in a jump combination, one change of edge is allowed in between the jumps. There is no reduction in GOE for the intended change of edge.
+Short Program must include a Jump Combination consisting of two jumps:
+− Senior Men: double and triple or two triples or quadruple and a
+double or triple;
+− Senior Women and Junior Men: double and triple or two triples; − Junior Women: combination of two double jumps is also
+permitted.
+For Senior Men the jump combination may consist of the same jump or another double, triple or quadruple jump. When a quadruple jump is executed as a solo jump, a different quadruple jump can be included in the jump combination.
+For Senior Women, Junior Men and Women the jump combination may consist of the same jump or another double or triple jump. However, for all categories the jumps included must be different than the solo jump.
+As per rule 611, paragraph 2 and 3, quint jumps are not permitted.
+Таблица 45 (страницы 22, 23):
+Short Program: Free Skating; A
+Short Program must include a Jump Combination consisting of two
+jumps:
+Senior Men: double and triple or two triples or quadruple and a
+double or triple;
+Senior Women and Junior Men: double and triple or two triples;
+Junior Women: combination of two double jumps is also
+permitted.
+For  Senior  Men  the  jump  combination  may  consist  of  the  same  jump  or
+another  double,  triple  or  quadruple
+jump.  When  a  quadruple
+jump
+executed as a solo jump, a different quadruple jump can be included in the
+jump combination.
+For Senior Women, Junior Men and Women the jump combination may
+consist of the same jump or another double or triple jump. However, for all
+categories the jumps included must be different than the solo jump.
+s per rule 611, paragraph 2 and 3, quint jumps are not permitted.: A
+A jump combination and a jump sequence may consist of the same or
+another single, double, triple or quadruple jump. There may be up to three
+jump combinations or two jump combinations and one jump sequence in
+the Free Program. One jump combination or one jump sequence may
+consist of up to three jumps, the other two up to two jumps each.
+s per rule 612, paragraph 2, quint jumps in the Free Skating are only
+possible as individual jumps but NOT as part of a jump combination or a
+jump sequence.
+
+
+Free Skating
+Jump Sequence Free Skating
+General Short Program
+Free Skating
+Calling quarter, under-rotated or downgraded jumps
+Landed on the quarter
+A jump combination and a jump sequence may consist of the same or another single, double, triple or quadruple jump. There may be up to three jump combinations or two jump combinations and one jump sequence in the Free Program. One jump combination or one jump sequence may consist of up to three jumps, the other two up to two jumps each.
+As per rule 612, paragraph 2, quint jumps in the Free Skating are only possible as individual jumps but NOT as part of a jump combination or a jump sequence.
+A jump sequence consists of two or three jumps of any number of revolutions, in which the second and/or the third jump is an Axel type jump with a direct step from the landing curve of the first/second jump in to the take-off curve of the Axel jump. One full revolution on the ice between the jumps (free foot can touch the ice, but without weight transfer) keeps the element in the frame of the definition of a jump sequence. Jumps executed in a jump sequence receive their full value.
+Jumps which do not satisfy the requirements (including wrong number of revolutions) will have no value, but will block a jumping box, if one is empty; if a combination of two double jumps is not allowed (Sr. Men & Women, Jr. Men), the jump with the lesser value (after the consideration of signs <, <<, e) will not count.
+If any is not according to the requirements, only the jump/s not according to requirements will be deleted.
+jump/s
+in a combination/sequence
+Clarifications
+The TP must call the attempted jump even if it is clear that it is landed on the quarter, under-rotated or downgraded. All these jumps will count as the intended jump in the application of Well Balanced Program regulations.
+The quarter/half mark of landing are the border lines to identify cheated jumps. The camera angle is important to consider when deciding upon a cheated jump particularly when the jump is at the opposite end of the rink than the camera.
+In all doubtful cases the Technical Panel should act to the benefit of the skater.
+A jump will be considered as “quarter” if it is missing rotation of a ¼. This jump will be indicated by the Technical Panel to the Judges and in the protocols with a “q” symbol after the element code.
+Таблица 49 (страницы 23, 24):
+Calling quarter,
+under-rotated or
+downgraded jumps: Under-rotated
+jumps; T
+The TP must call the attempted jump even if it is clear that it is landed on
+the quarter, under-rotated or downgraded. All these jumps will count as
+the intended jump in the application of Well Balanced Program
+regulations.
+he quarter/half mark of landing are the border lines to identify cheated
+jumps. The camera angle is important to consider when deciding upon a
+cheated jump particularly when the jump is at the opposite end of the rink
+than the camera.
+n all doubtful cases the Technical Panel should act to the benefit of the
+skater.: A jump will be considered as “Under-rotated” if it has missing rotation of
+more than a ¼ but less than ½ revolution. An under-rotated jump will be
+indicated by the Technical Panel to the Judges and in the protocols with a
+“<” symbol after the element code.
+Jumps identified as under-rotated will receive reduced base values which
+are listed in the designated row of the SOV.
+
+
+Under-rotated jumps
+A jump will be considered as “Under-rotated” if it has missing rotation of more than a ¼ but less than ½ revolution. An under-rotated jump will be indicated by the Technical Panel to the Judges and in the protocols with a “<” symbol after the element code. Jumps identified as under-rotated will receive reduced base values which are listed in the designated row of the SOV.
+Downgraded jumps A jump will be considered as “Downgraded” if it has “missing rotation of ½
+revolutions or more”. A downgraded jump will be indicated by the Technical Panel to the Judges and in the protocols with a “<<” symbol after the element code.
+A jump identified as downgraded will be evaluated using the scale of values (SOV chart) for the element of one rotation less (i.e. a downgraded triple will be evaluated with the scale of values for the corresponding double).
+Over-rotated jumps
+If a jump is over-rotated more than a quarter revolution, it is called as a jump with the higher revolution. For example 2T with more than a quarter revolution will be called as 3T downgraded (<<) by the Technical Panel.
+Cheated take-off
+A clear forward (backward for Axel type jump) take-off will be considered as a downgraded jump. The toe loop is the most commonly cheated on take- off jump. The TP may only watch the replay in regular speed to determine the cheat and downgrade on the take-off (more often in combinations or sequences).
+Taking off from wrong edge (Flip/Lutz)
+Flip take-off is from a backward inside edge, Lutz take-off is from a backward outside edge. If the take-off edge is not clean correct, the TP indicates the error to the Judges using the signs “e” (edge) and “!” (attention).
+The TP may watch the replay in slow motion.
+The TP uses the sign “e” if the take-off edge is definitely wrong.
+The Base values of the jumps with the sign “e” are listed in the designated row of the SOV. The TP uses the sign “!” if the take-off edge is not clear. In this case the Base value is not reduced. Both mistakes are reflected in the GOE of the Judges.
+Under-rotated jumps taken off from wrong edge (Flip/Lutz)
+If both signs “e” and “<” are applied for the same jump, the Base value is indicated in the designated row of the SOV.
+Popped listed jumps
+The attempt will count as one jump element. However, a small hop or jump with up to one-half revolution performed as a kind of “decoration” is not to be considered as a jump and will be marked within the component Composition.
+Non-listed jumps
+Jumps that are not listed in the SOV (e.g. Walley, split jump, Inside Axel with any number of revolutions taking off from the forward inside edge etc.) will not count as a jump element but might be used as a special entrance to the jump to be considered in the mark for Composition. A Toe Walley, however, will be called and counted as a Toe loop.
+Таблица 53 (страницы 24, 25):
+on-listed jumps: Attempted Jump; Jumps that are not listed in the SOV (e.g. Walley, split jump, Inside Axel
+with any number of revolutions taking off from the forward inside edge
+etc.) will not count as a jump element but might be used as a special
+entrance to the jump to be considered in the mark for Composition.
+A Toe Walley, however, will be called and counted as a Toe loop.: What is an attempt? In principle, a clear preparation for a take-off for a
+jump, stepping to the entry edge or placing the toe pick into the ice and
+leaving the ice with or without a turn is considered an attempt of a jump,
+receives no value and blocks a box.
+In some cases, which need to be decided by the TP, the preparation for the
+take off without leaving the ice might be also called an attempt, e.g. a loop
+jump take off when the skater falls before leaving the ice, or a skater steps
+onto the forward take off edge of an Axel and pulls back the free leg and
+arms, starts the forward movement to jump into the air with the free leg
+and arms passing through forward but at the last moment does not leave
+the ice, etc.
+
+
+Landing on another foot
+Landing on the incorrect edge
+Spin and jump back to back
+Attempted Jump
+Touch down with the free foot without weight transfer in Jump Combination
+Touch down with the free foot without weight transfer in Jump sequence (Free Skating)
+Jump Combination: first/second jump is a “non-listed” jump
+Arrangement of non-listed and one listed jump
+In combinations/sequences all jumps with more than one revolution, except the last one may be landed on either foot. If the skater lands the last jump on the wrong foot, the call will still be the executed jump, but the judges will reduce their GOE.
+The call will not change if a jump is landed on the incorrect edge. However, Judges will reflect this in their GOE.
+If a skater performs a spin, immediately followed by a jump or vice versa, the two elements are called separately with credit given to difficult take- off/entry (GOE). A listed jump that is called and executed immediately after a spin is not considered as difficult exit of a spin.
+What is an attempt? In principle, a clear preparation for a take-off for a jump, stepping to the entry edge or placing the toe pick into the ice and leaving the ice with or without a turn is considered an attempt of a jump, receives no value and blocks a box. In some cases, which need to be decided by the TP, the preparation for the take off without leaving the ice might be also called an attempt, e.g. a loop jump take off when the skater falls before leaving the ice, or a skater steps onto the forward take off edge of an Axel and pulls back the free leg and arms, starts the forward movement to jump into the air with the free leg and arms passing through forward but at the last moment does not leave the ice, etc.
+In case of a touch down with the free foot without weight transfer and up to 2 three turns or no turns between the jumps in a combination, the element remains a jump combination (however Judges will reduce the GOE because of error).
+In case of more than 1 full revolution on the ice, the call will be the jumps performed prior to this revolution + COMBO + all the next jumps with an *.
+In case of a touch down with the free foot without weight transfer and up to 2 three turns or no turns between the jumps in a sequence, the element remains a jump sequence (however Judges will reduce the GOE because of error).
+In case of more than 1 full revolution on the ice, the call will be the jumps performed prior to this revolution + SEQ + all the next jumps with an *
+If the first/second jump of a two-jump combination fails and turns into a “non-listed jump”, but the other jump is a listed jump, the unit will be considered as a jump combo with only the listed jump receiving value.
+In case one listed jump is followed or preceded by any non-listed jumps the call will be the solo listed jump only.
+Таблица 55 (страницы 25, 26):
+Touch down with
+the
+free foot without
+weight transfer in
+Jump sequence
+(Free Skating): Repetition of a
+jump; I
+In case of a touch down with the free foot without weight transfer and up
+to 2 three turns or no turns between the jumps in a sequence, the element
+remains a jump sequence (however Judges will reduce the GOE because
+of error).
+n case of more than 1 full revolution on the ice, the call will be the jumps
+performed prior to this revolution + SEQ + all the next jumps with an *: O
+A repeated jump of the same name with the same number of revolutions
+will be deleted, no value given, no GOE, but will occupy a jumping box; If
+the same jump is executed twice as a solo jump and as a part of the jump
+combination, the second execution will not be counted (if this repetition is
+in a jump combination, only the individual jump which is not according to
+the above requirements will not be counted).
+nly the jump combination can contain two same jumps.
+A repeated jump of the same name, but with different number of
+revolutions will receive credit.
+
+
+Short Program
+Element other than required
+Jump combo of 3 jumps
+Repetition of a jump
+Extra jump(s)
+Fall/step out or touch down with free foot with weight transfer after a jump plus another jump
+No second jump in a jump combination
+Free Skating
+First repetition of a double jump
+First repetition of a triple/quad/quint jump
+If a Junior skater performs a different jump than required, the element will receive no value, but will block the “jumping box”.
+The third executed jump will receive no value.
+A repeated jump of the same name with the same number of revolutions will be deleted, no value given, no GOE, but will occupy a jumping box; If the same jump is executed twice as a solo jump and as a part of the jump combination, the second execution will not be counted (if this repetition is in a jump combination, only the individual jump which is not according to the above requirements will not be counted).
+Only the jump combination can contain two same jumps. A repeated jump of the same name, but with different number of revolutions will receive credit.
+If an extra jump(s) is executed, only the solo jump(s) which is not according to the requirements will have no value. All extra jumps are called and marked with an *. The jumps are considered in the order of execution.
+If a skater falls or steps out of a jump and immediately after that executes another jump, the element will be called as follows: “First Jump + Combo + Second Jump*.”
+If there is no second jump in a jump combination, the Technical Panel identifies the intended combination during or after the program. If there is no clear way to identify the combination or the solo jump, the later jump element performed will be identified as the jump combination consisting of one jump only. Example number 1: 4T clean and 3Lz with a fall → 4T and 3Lz+COMBO Note the following: 4T with a fall and 3Lz clean → 4T+COMBO and 3Lz (solo jump) Reason: Skater could have had the combo in 4T but fell. Example number 2: Senior skater executes as first jump element 2T and as second jump element 3Lz with a fall. In this case +COMBO should be added to 2T+COMBO. Reason: By adding +COMBO to 2T, the skater gets value from 2T. If +COMBO is added to 3Lz, the first element will be 2T*.
+First repetition of a double jump as a solo jump or in a jump combination/ sequence: both jumps will receive full base value.
+First repetition of a triple or quad or quint jump of the same name and the same number of revolutions without one of them being in a jump combination/sequence: both jumps will be counted as solo jumps, but the
+Таблица 57 (страницы 26, 27):
+No second jump in
+a jump combination: Second/third
+repetition of a
+double/triple/quad/
+quint jump; If there is no second jump in a jump combination, the Technical Panel
+identifies the intended combination during or after the program. If there is
+no clear way to identify the combination or the solo jump, the later jump
+element performed will be identified as the jump combination consisting
+of one jump only.
+Example number 1: 4T clean and 3Lz with a fall → 4T and 3Lz+COMBO
+Note the following:
+4T with a fall and 3Lz clean → 4T+COMBO and 3Lz (solo jump)
+Reason: Skater could have had the combo in 4T but fell.
+Example number 2: Senior skater executes as first jump element 2T and as
+second jump element 3Lz with a fall. In this case +COMBO should be
+added to 2T+COMBO.
+Reason: By adding +COMBO to 2T, the skater gets value from 2T. If
++COMBO is added to 3Lz, the first element will be 2T*.: Second/third repetition of a double or triple or quad or quint jump of the
+same name and the same number of revolutions as a solo jump or in a
+jump combination/ sequence: only the jumps not according to the
+requirements will receive no value, but the rest of the jumps of the
+combination/ sequence will be counted.
+
+
+Second/third repetition of a double/triple/quad/ quint jump
+Second jump combo or sequence with 3 jumps
+Extra jump(s)
+More than one jump sequence in the program
+In total more than three Jump combinations/sequ ences allowed in a program
+Executions of jump not counted in Jump combination or sequence
+No Axel type jump in Free Skating
+second of these jumps will be marked with the sign “+REP” and will receive 70% of the base value with result rounded to two decimal places.
+Second/third repetition of a double or triple or quad or quint jump of the same name and the same number of revolutions as a solo jump or in a jump combination/ sequence: only the jumps not according to the requirements will receive no value, but the rest of the jumps of the combination/ sequence will be counted.
+One jump combination or one jump sequence may consist of up to three jumps. Only the jumps not according to requirements will receive no value.
+For example: 3S+2T+2T and 3T+2A+2A*+Seq
+If an extra jump(s) is executed, only the solo jump(s) which is not according to the requirements will have no value. All extra jumps are called and marked with an *. The jumps are considered in the order of execution.
+There can only be one jump sequence in a Free program. If the skater executes two jump sequences in a program, only the first jump of the jump unit will count.
+First jump sequence in the program: 3T + 2A + Seq Second jump sequence in the program: 3S + 1A* + 2T* + Seq + REP Second jump sequence in the program: 3S + 2T* + 1A* + Seq + REP
+If the total number of jump combinations or sequences is more than three, only the first jump of the extra jump combinations/sequences is counted. This jump will be marked with the sign “+REP” and receive 70% of the base value (as a repetition of a jump combination/sequence), e.g. 3Lo+3T*+REP, 3Lo+3T*+2A*+ Seq +REP etc.
+If in a jump combination or sequence a skater falls or steps out of a jump and immediately executes another jump(s), the jump(s) after the mistake are not counted, and the call will be the executed jump(s) before the mistake + combo/sequence + the executed jump(s). The jumps after the mistake are marked with an *.
+3T (fall/step out) + 2T Call: 3T + Combo + 2T* 2A + 1Eu (fall/step out) + 3S Call: 2A + 1Eu + Combo + 3S* 3T (touch down with weight transfer) + 2A Call: 3T + Seq + 2A* 3S (fall/step/out) + 2T + 2A Call: 3S + Seq + 2T*+ 2A*
+By doing this all the executed jumps will be visible on the computer screen and it will be easy to follow the requirements of the repetition rule. The Judges GOE refer to the entire element performed.
+If there is no Axel type jump attempted in the Free Skating, the jumps in the last jump element box will receive * and no value. If the last jump element box is empty (skater executes less jumps than allowed), there is no need to add * and the box stays empty.
+
+
+Elements with no value or maximum Level B/1/2/3 in SINGLES SP & FS 2025-2026
+Max. Level SP
+Problem
+Max. Level FS
+All elements with Levels
+No Value Basic+ded.
+Wrong element Illegal elements/movements (if Basic Level requirements are fulfilled); TP is responsible for illegal elements deduction
+N/A Basic+ded.
+Step Sequences
+No Value Basic
+Basic
+Does not fully utilize the ice surface No minimum variety in steps & turns throughout the sequence Only minimum variety in steps & turns throughout the sequence Only simple variety in steps & turns throughout the sequence Only variety (no complexity) in steps & turns throughout the sequence No balance of steps and turns in their distribution through the sequence
+No Value Basic
+Basic
+All Spins
+No Value
+Does not have at least 2 continuous revolutions in a basic position Spin does not have mandatory feature for level 4
+No Value
+Spins with change of foot
+No Value No Value No Value 2 3
+Less than 3 revolutions before/after the change Spinning centers too far apart Second change of foot All features executed on one foot Only one feature executed on one of the feet
+Any, V 2nd part ignored Any 2 3
+Spin in one position with change of foot
+No Value
+No basic pos. on one foot for at least 2 revolutions
+Any, V
+Spin combination without change of foot
+N/A N/A
+Only one position with 2 revolutions 2 basic positions with 2 revolutions
+No Value Any, V
+Spin combination with change of foot
+No Value Any Any, V No Value
+Only one position with 2 revolutions No basic pos. on one foot for at least 2 revolutions 2 basic positions with 2 revolutions Change of foot: less than 3 revolutions before/after
+No Value Any Any, V Any, V
+Layback
+No Value No Biellmann feature
+Less than 2 rev. + Biellmann 2 or more, but less than 8 rev. + Biellmann (6 rev. for Advanced Novice)
+Upright any Level Layback any Level
+Flying Spin
+Any, V, no flying feature Any, no flying feature
+Step over/no clear visible jump
+Basic landing position not reached within the first 2 revs after landing
+Any, V, no flying feature Any, no flying feature
+Таблица 62 (страницы 28):
+Max. Level
+Problem
+Max. Level
+FS: All elements with Levels; : 0
+Max. Level
+Problem
+Max. Level
+FS: No Value
+Wrong element
+N/A; : 0
+Max. Level
+Problem
+Max. Level
+FS: Basic+ded.
+Illegal elements/movements (if Basic Level requirements
+Basic+ded.
+are fulfilled); TP is responsible for illegal elements deduction; : 0
+Max. Level
+Problem
+Max. Level
+FS: Step Sequences; : 0
+Max. Level
+Problem
+Max. Level
+FS: No Value; : 0
+Does not fully utilize the ice surface
+No Value
+Does not fully utilize the ice surface
+No Value
+Max. Level
+Problem
+Max. Level
+FS: Basic; : 0
+No minimum variety in steps & turns throughout...
+Basic
+No minimum variety in steps & turns throughout...
+Basic
+Max. Level
+Problem
+Max. Level
+FS: 1; : 0
+Only minimum variety in steps & turns througho...
+Only minimum variety in steps & turns througho...
+Max. Level
+Problem
+Max. Level
+FS: 2; : 0
+Only simple variety in steps & turns throughou...
+Only simple variety in steps & turns throughou...
+Max. Level
+Problem
+Max. Level
+FS: 3; : 0
+Only variety (no complexity) in steps & turns ...
+Only variety (no complexity) in steps & turns ...
+Max. Level
+Problem
+Max. Level
+FS: Basic; : 0
+No balance of steps and turns in their distrib...
+Basic
+No balance of steps and turns in their distrib...
+Basic
+Max. Level
+Problem
+Max. Level
+FS: All Spins; : 0
+Max. Level
+Problem
+Max. Level
+FS: No Value
+Does not have at least 2 continuous revolutions in a basic
+No Value
+position; : 0
+Max. Level
+Problem
+Max. Level
+FS: 3
+Spin does not have mandatory feature for level 4
+3; : 0
+Max. Level
+Problem
+Max. Level
+FS: Spins with change of foot; : 0
+Max. Level
+Problem
+Max. Level
+FS: No Value; : 0
+Less than 3 revolutions before/after the change
+Any, V
+Less than 3 revolutions before/after the change
+Any, V
+Max. Level
+Problem
+Max. Level
+FS: No Value; : 0
+Spinning centers too far apart
+2nd part ignored
+Spinning centers too far apart
+2nd part ignored
+Max. Level
+Problem
+Max. Level
+FS: No Value; : 0
+Second change of foot
+Any
+Second change of foot
+Any
+Max. Level
+Problem
+Max. Level
+FS: 2; : 0
+All features executed on one foot
+All features executed on one foot
+Max. Level
+Problem
+Max. Level
+FS: 3; : 0
+Only one feature executed on one of the feet
+Only one feature executed on one of the feet
+Max. Level
+Problem
+Max. Level
+FS: Spin in one position with change of foot; : 0
+Max. Level
+Problem
+Max. Level
+FS: No Value
+No basic pos. on one foot for at least 2 revolutions
+Any, V; : 0
+Max. Level
+Problem
+Max. Level
+FS: Spin combination without change of foot; : 0
+Max. Level
+Problem
+Max. Level
+FS: N/A
+Only one position with 2 revolutions
+No Value; : 0
+Max. Level
+Problem
+Max. Level
+FS: N/A
+2 basic positions with 2 revolutions
+Any, V; : 0
+Max. Level
+Problem
+Max. Level
+FS: Spin combination with change of foot; : 0
+Max. Level
+Problem
+Max. Level
+FS: No Value
+Only one position with 2 revolutions
+No Value; : 0
+Max. Level
+Problem
+Max. Level
+FS: Any
+No basic pos. on one foot for at least 2 revolutions
+Any; : 0
+Max. Level
+Problem
+Max. Level
+FS: Any, V
+2 basic positions with 2 revolutions
+Any, V; : 0
+Max. Level
+Problem
+Max. Level
+FS: No Value
+Change of foot: less than 3 revolutions before/after
+Any, V; : 0
+Max. Level
+Problem
+Max. Level
+FS: Layback; : 0
+Max. Level
+Problem
+Max. Level
+FS: No Value
+Less than 2 rev. + Biellmann
+Upright any Level; : 0
+Max. Level
+Problem
+Max. Level
+FS: No Biellmann
+2 or more, but less than 8 rev. + Biellmann (6 rev. for
+Layback any
+feature
+Advanced Novice)
+Level; : 0
+Max. Level
+Problem
+Max. Level
+FS: Flying Spin; : 0
+Max. Level
+Problem
+Max. Level
+FS: Any, V, no
+flying feature; : 0
+Step over/no clear visible jump
+Any, V, no flying \nfeature
+Step over/no clear visible jump
+Any, V, no flying \nfeature
+Max. Level
+Problem
+Max. Level
+FS: Any, no flying
+feature; : 0
+Basic landing position not reached within the ...
+Any, no flying \nfeature
+Basic landing position not reached within the ...
+Any, no flying \nfeature
