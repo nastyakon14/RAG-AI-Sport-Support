@@ -70,143 +70,48 @@ Choreographic Lift
 Lifted partner is held off the ice for 3 seconds without interruption
 ...error inside/during the element
 Must be performed after the required Dance Lifts; - Subsequent Dance Lifts shall be identified as an Extra Element
-Таблица 1 (страницы 5, 6):
-Choreographic
-Element: Choreographic
-Assisted Jump/Lifting
-Movement; Minimum Requirement
-to be Confirmed: At least 3 assisted jump
-movements are
-performed continuously in
-a row; “!” applied when an error or any of the following
-occur...: ...more than 3 steps are performed between any
-Assisted Jump
-...more than 1 rotation is performed in any Assisted
-Jump movement by the assisting partner; Additional Principles of Calling: - May be performed anywhere in the program;
-- Subsequent Choreographic Assisted Jump Movement(s) shall
-not be identified;
-- If any of the Assisted Jumps/Lifting movements are 3 seconds
-or more off the ice, it is identified as a Lift or Choreographic Lift
-and the Additional Principles of Calling apply.
-Choreographic
-Element: Choreographic
-Character Step
-Sequence; Minimum Requirement
-to be Confirmed: Both partners perform
-steps around the chosen
-axis and must proceed
-from barrier to barrier; “!” applied when an error or any of the following
-occur...: ... distance between partners is more than 2 arms
-length
-....a stop is performed during the Sequence (when
-not permitted)
-... a retrogression is performed
-...both of the partners are more than 2 meters from
-one of the barriers
-…pattern is repeated as exactly the same as the
-Step Sequence, even if the ChSt is skated first; Additional Principles of Calling: - May be performed anywhere in the program;
-- Subsequent Character Step Sequence(s) shall not be
-identified.
-- If there is a repeated pattern for both the ChSt and the required
-Step Sequence, the ChSt (skated before or after the required
-Step Sequence) receives the “!” symbol on the Judges screen
-and the Judges will apply the appropriate GOE per the GOE
-chart. Note: Diagonal and Midline are NOT considered as a
-repeated pattern.
-Choreographic
-Element: Choreographic
-Hydroblading
-Movement; Minimum Requirement
-to be Confirmed: Hydroblading movement
-by both partners at the
-same time for at least 2
-seconds; “!” applied when an error or any of the following
-occur...: …part of the body other than the boot of the free
-leg touches the ice by one partner; Additional Principles of Calling: - May be performed anywhere in the program;
-Subsequent Choreographic Hydroblading Movement(s) shall not
-be identified;
-- If any other part of the body, (other than the allowable boot/foot
-drag of the free leg) touches the ice by both partners, it may be
-considered a Chorographic Sliding Movement;
-- The start and end of the Choreographic Hydroblading
-Movement do not have to be performed simultaneously;
-- May be in hold or not touching.
-- At least one blade by each partner must be on the ice
-Choreographic
-Element: Choreographic Lift; Minimum Requirement
-to be Confirmed: Lifted partner is held off
-the ice for 3 seconds
-without interruption; “!” applied when an error or any of the following
-occur...: ...error inside/during the element; Additional Principles of Calling: - Must be performed after the required Dance Lifts;
-- Subsequent Dance Lifts shall be identified as an Extra Element
-Choreographic
-Element: Choreographic
-Rhythm Sequence; Minimum Requirement
-to be Confirmed: Both partners perform
-steps around the short
-axis and must proceed
-from barrier to barrier; “!” applied when an error or any of the following
-occur...: ...both of the partners are more than 2 meters from
-one of the barriers
-...a retrogression is performed
-…partners are not in contact for more than 5
-seconds
-... partners are not in contact more than once
-... distance between partners during the permitted
-separation is more than 2 arms length
-....a stop is performed during the Sequence (when
-not permitted); Additional Principles of Calling: - May be performed anywhere in the program
-Choreographic
-Element: Choreographic
-Sliding Movement; Minimum Requirement
-to be Confirmed: Both partners execute
-sliding movements on the
-ice at the same time for at
-least 2 seconds; “!” applied when an error or any of the following
-occur...: ...there is a loss of control which is not considered
-as a Fall; Additional Principles of Calling: - May be performed anywhere in the program;
-- Subsequent sliding movements, which are identified as Illegal
-Element /Movement and/or a Fall shall be called as such but not
-considered as an Extra Element (Choreographic Sliding
-Movement);
-- The start and end of the Choreographic Sliding Movement do
-not have to be performed simultaneously;
-- If the Choreographic Sliding Movement does not fulfill the
-requirements (and therefore not confirmed) and the skater(s)
-has performed “touching the ice with any part of the body” (as an
-example, on two knees), the Technical Panel will call a Fall per
-partner;
-- Basic lunges performed by both partners at the same time do
-not fulfil the minimum requirement and will be ignored.
-Choreographic
-Element: Choreographic
-Spinning Movement; Minimum Requirement
-to be Confirmed: At least 3 continuous
-rotations are performed
-by both partners around a
-common axis without
-interruption
-(2 continuous rotations for
-Novice); “!” applied when an error or any of the following
-occur...: ...error inside/during the element; Additional Principles of Calling: - May be performed anywhere in the program;
-- Subsequent Spinning Movements shall not be identified.
-Choreographic
-Element: Choreographic
-Twizzling
-Movements; Minimum Requirement
-to be Confirmed: Both partners perform at
-least 2 continuous
-travelling rotations
-simultaneously in the first
-part, and at least one of
-the partners performs at
-least 2 continuous
-rotations in the second
-part; “!” applied when an error or any of the following
-occur...: …more than 3 steps are performed between
-twizzling movements
-...more than two arms length apart; Additional Principles of Calling: - Must be performed after the required Set of Twizzles;
-- Subsequent Twizzling Movements shall not be identified,
+
+
+--- Table 1 ---
+| Choreographic                                      | Choreographic                                                          | Choreographic                                                        | Choreographic                                                         | Choreographic Lift                                               | Choreographic                                        | Choreographic                                                      | Choreographic                                            | Choreographic                                             |
+| Element                                            | Assisted Jump/Lifting                                                  | Character Step                                                       | Hydroblading                                                          |                                                                  | Rhythm Sequence                                      | Sliding Movement                                                   | Spinning Movement                                        | Twizzling                                                 |
+|                                                    | Movement                                                               | Sequence                                                             | Movement                                                              |                                                                  |                                                      |                                                                    |                                                          | Movements                                                 |
+|:---------------------------------------------------|:-----------------------------------------------------------------------|:---------------------------------------------------------------------|:----------------------------------------------------------------------|:-----------------------------------------------------------------|:-----------------------------------------------------|:-------------------------------------------------------------------|:---------------------------------------------------------|:----------------------------------------------------------|
+| Minimum Requirement                                | At least 3 assisted jump                                               | Both partners perform                                                | Hydroblading movement                                                 | Lifted partner is held off                                       | Both partners perform                                | Both partners execute                                              | At least 3 continuous                                    | Both partners perform at                                  |
+| to be Confirmed                                    | movements are                                                          | steps around the chosen                                              | by both partners at the                                               | the ice for 3 seconds                                            | steps around the short                               | sliding movements on the                                           | rotations are performed                                  | least 2 continuous                                        |
+|                                                    | performed continuously in                                              | axis and must proceed                                                | same time for at least 2                                              | without interruption                                             | axis and must proceed                                | ice at the same time for at                                        | by both partners around a                                | travelling rotations                                      |
+|                                                    | a row                                                                  | from barrier to barrier                                              | seconds                                                               |                                                                  | from barrier to barrier                              | least 2 seconds                                                    | common axis without                                      | simultaneously in the first                               |
+|                                                    |                                                                        |                                                                      |                                                                       |                                                                  |                                                      |                                                                    | interruption                                             | part, and at least one of                                 |
+|                                                    |                                                                        |                                                                      |                                                                       |                                                                  |                                                      |                                                                    | (2 continuous rotations for                              | the partners performs at                                  |
+|                                                    |                                                                        |                                                                      |                                                                       |                                                                  |                                                      |                                                                    | Novice)                                                  | least 2 continuous                                        |
+|                                                    |                                                                        |                                                                      |                                                                       |                                                                  |                                                      |                                                                    |                                                          | rotations in the second                                   |
+|                                                    |                                                                        |                                                                      |                                                                       |                                                                  |                                                      |                                                                    |                                                          | part                                                      |
+| “!” applied when an error or any of the following  | ...more than 3 steps are performed between any                         | ... distance between partners is more than 2 arms                    | …part of the body other than the boot of the free                     | ...error inside/during the element                               | ...both of the partners are more than 2 meters from  | ...there is a loss of control which is not considered              | ...error inside/during the element                       | …more than 3 steps are performed between                  |
+| occur...                                           | Assisted Jump                                                          | length                                                               | leg touches the ice by one partner                                    |                                                                  | one of the barriers                                  | as a Fall                                                          |                                                          | twizzling movements                                       |
+|                                                    | ...more than 1 rotation is performed in any Assisted                   | ....a stop is performed during the Sequence (when                    |                                                                       |                                                                  | ...a retrogression is performed                      |                                                                    |                                                          | ...more than two arms length apart                        |
+|                                                    | Jump movement by the assisting partner                                 | not permitted)                                                       |                                                                       |                                                                  | …partners are not in contact for more than 5         |                                                                    |                                                          |                                                           |
+|                                                    |                                                                        | ... a retrogression is performed                                     |                                                                       |                                                                  | seconds                                              |                                                                    |                                                          |                                                           |
+|                                                    |                                                                        | ...both of the partners are more than 2 meters from                  |                                                                       |                                                                  | ... partners are not in contact more than once       |                                                                    |                                                          |                                                           |
+|                                                    |                                                                        | one of the barriers                                                  |                                                                       |                                                                  | ... distance between partners during the permitted   |                                                                    |                                                          |                                                           |
+|                                                    |                                                                        | …pattern is repeated as exactly the same as the                      |                                                                       |                                                                  | separation is more than 2 arms length                |                                                                    |                                                          |                                                           |
+|                                                    |                                                                        | Step Sequence, even if the ChSt is skated first                      |                                                                       |                                                                  | ....a stop is performed during the Sequence (when    |                                                                    |                                                          |                                                           |
+|                                                    |                                                                        |                                                                      |                                                                       |                                                                  | not permitted)                                       |                                                                    |                                                          |                                                           |
+| Additional Principles of Calling                   | - May be performed anywhere in the program;                            | - May be performed anywhere in the program;                          | - May be performed anywhere in the program;                           | - Must be performed after the required Dance Lifts;              | - May be performed anywhere in the program           | - May be performed anywhere in the program;                        | - May be performed anywhere in the program;              | - Must be performed after the required Set of Twizzles;   |
+|                                                    | - Subsequent Choreographic Assisted Jump Movement(s) shall             | - Subsequent Character Step Sequence(s) shall not be                 | Subsequent Choreographic Hydroblading Movement(s) shall not           | - Subsequent Dance Lifts shall be identified as an Extra Element |                                                      | - Subsequent sliding movements, which are identified as Illegal    | - Subsequent Spinning Movements shall not be identified. | - Subsequent Twizzling Movements shall not be identified, |
+|                                                    | not be identified;                                                     | identified.                                                          | be identified;                                                        |                                                                  |                                                      | Element /Movement and/or a Fall shall be called as such but not    |                                                          |                                                           |
+|                                                    | - If any of the Assisted Jumps/Lifting movements are 3 seconds         | - If there is a repeated pattern for both the ChSt and the required  | - If any other part of the body, (other than the allowable boot/foot  |                                                                  |                                                      | considered as an Extra Element (Choreographic Sliding              |                                                          |                                                           |
+|                                                    | or more off the ice, it is identified as a Lift or Choreographic Lift  | Step Sequence, the ChSt (skated before or after the required         | drag of the free leg) touches the ice by both partners, it may be     |                                                                  |                                                      | Movement);                                                         |                                                          |                                                           |
+|                                                    | and the Additional Principles of Calling apply.                        | Step Sequence) receives the “!” symbol on the Judges screen          | considered a Chorographic Sliding Movement;                           |                                                                  |                                                      | - The start and end of the Choreographic Sliding Movement do       |                                                          |                                                           |
+|                                                    |                                                                        | and the Judges will apply the appropriate GOE per the GOE            | - The start and end of the Choreographic Hydroblading                 |                                                                  |                                                      | not have to be performed simultaneously;                           |                                                          |                                                           |
+|                                                    |                                                                        | chart. Note: Diagonal and Midline are NOT considered as a            | Movement do not have to be performed simultaneously;                  |                                                                  |                                                      | - If the Choreographic Sliding Movement does not fulfill the       |                                                          |                                                           |
+|                                                    |                                                                        | repeated pattern.                                                    | - May be in hold or not touching.                                     |                                                                  |                                                      | requirements (and therefore not confirmed) and the skater(s)       |                                                          |                                                           |
+|                                                    |                                                                        |                                                                      | - At least one blade by each partner must be on the ice               |                                                                  |                                                      | has performed “touching the ice with any part of the body” (as an  |                                                          |                                                           |
+|                                                    |                                                                        |                                                                      |                                                                       |                                                                  |                                                      | example, on two knees), the Technical Panel will call a Fall per   |                                                          |                                                           |
+|                                                    |                                                                        |                                                                      |                                                                       |                                                                  |                                                      | partner;                                                           |                                                          |                                                           |
+|                                                    |                                                                        |                                                                      |                                                                       |                                                                  |                                                      | - Basic lunges performed by both partners at the same time do      |                                                          |                                                           |
+|                                                    |                                                                        |                                                                      |                                                                       |                                                                  |                                                      | not fulfil the minimum requirement and will be ignored.            |                                                          |                                                           |
+------------------
+
 
 
 Choreographic Element Choreographic Rhythm Sequence
@@ -344,91 +249,56 @@ b) Lifting partner sustains a Difficult Position for at least 3 sec
 c) Entry Feature(s)
 d) Exit Feature(s)
 Note: a) and/or b) Features must be included.
-Таблица 2 (страницы 11, 12):
-Stationary Lift, Straight Line Lift, Curve Lift: Basic Level; : 0
-Level 1
-Level 2
-Level 3
-Level 4
-Level 1
-Level 2
-Level 3
-Level 4
-Level 1
-Level 2
-Level 3
-Level 4
-Level 1
-Level 2
-Level 3
-Level 4
-Stationary Lift, Straight Line Lift, Curve Lift: Lifted partner is
-held off the ice for
-at least 3
-seconds; : 0
-1 Feature out of a), b), c):  \na) Lifted part...
-2 Features out of a), b), c): \na) Lifted part...
-d\n  N\n3 Features out of a), b), c), d):  \na...
-a\n  O\n  L\n  b\n  c\n4 Features out of a), b...
-1 Feature out of a), b), c):  \na) Lifted part...
-2 Features out of a), b), c): \na) Lifted part...
-d\n  N\n3 Features out of a), b), c), d):  \na...
-a\n  O\n  L\n  b\n  c\n4 Features out of a), b...
-1 Feature out of a), b), c):  \na) Lifted part...
-2 Features out of a), b), c): \na) Lifted part...
-d\n  N\n3 Features out of a), b), c), d):  \na...
-a\n  O\n  L\n  b\n  c\n4 Features out of a), b...
-1 Feature out of a), b), c):  \na) Lifted part...
-2 Features out of a), b), c): \na) Lifted part...
-d\n  N\n3 Features out of a), b), c), d):  \na...
-a\n  O\n  L\n  b\n  c\n4 Features out of a), b...
-Stationary Lift, Straight Line Lift, Curve Lift: Rotational Lift; : 0
-Stationary Lift, Straight Line Lift, Curve Lift: Basic Level; : 0
-Level 1
-Level 2
-Level 3
-Level 4
-Level 1
-Level 2
-Level 3
-Level 4
-Level 1
-Level 2
-Level 3
-Level 4
-Level 1
-Level 2
-Level 3
-Level 4
-Stationary Lift, Straight Line Lift, Curve Lift: L
-ifted partner is
-held off the ice
-through at least 3
-rotations
-AND
-Lifting partner
-moves through at
-least 3 rotations
-Lifted partner is
-held off the ice
-through at least 3
-seconds; : 0
-O\nOPTION 1 \nLifted partner sustains a \nDiff...
-O\n   \nOPTION 1 \nLifted partner sustains a D...
-O\nOPTION 1 \nLifted partner sustains a \nDiff...
-O\nOPTION 1 \nLifted partner sustains a Diffic...
-O\nOPTION 1 \nLifted partner sustains a \nDiff...
-O\n   \nOPTION 1 \nLifted partner sustains a D...
-O\nOPTION 1 \nLifted partner sustains a \nDiff...
-O\nOPTION 1 \nLifted partner sustains a Diffic...
-O\nOPTION 1 \nLifted partner sustains a \nDiff...
-O\n   \nOPTION 1 \nLifted partner sustains a D...
-O\nOPTION 1 \nLifted partner sustains a \nDiff...
-O\nOPTION 1 \nLifted partner sustains a Diffic...
-O\nOPTION 1 \nLifted partner sustains a \nDiff...
-O\n   \nOPTION 1 \nLifted partner sustains a D...
-O\nOPTION 1 \nLifted partner sustains a \nDiff...
-O\nOPTION 1 \nLifted partner sustains a Diffic...
+
+
+--- Table 2 ---
+| Stationary Lift, Straight Line Lift, Curve Lift   |                                  |                                        |                                     |                                           |
+|:--------------------------------------------------|:---------------------------------|:---------------------------------------|:------------------------------------|:------------------------------------------|
+| Basic Level                                       | Level 1                          | Level 2                                | Level 3                             | Level 4                                   |
+| Lifted partner is                                 | 1 Feature out of a), b), c):     | 2 Features out of a), b), c):          | d                                   | a                                         |
+| held off the ice for                              | a) Lifted partner sustains a     | a) Lifted partner sustains a           |   N                                 |   O                                       |
+| at least 3                                        | Difficult Pose for at least 3    | Difficult Pose for at least 3 sec      | 3 Features out of a), b), c), d):   |   L                                       |
+| seconds                                           | sec                              | OR                                     | a) Lifted partner sustains a        |   b                                       |
+|                                                   | OR                               | Lifted partner moves through a         | Difficult Pose for at least 3 sec   |   c                                       |
+|                                                   | Lifted partner moves             | Change of Pose                         | OR                                  | 4 Features out of a), b), c), d):         |
+|                                                   | through a Change of Pose         | b) Lifting partner sustains a          | Lifted partner moves through a      | ) Lifted partner sustains a Difficult     |
+|                                                   | b) Lifting partner sustains a    | Difficult Position for at least 3 sec  | Change of Pose                      | Pose for at least 3 sec                   |
+|                                                   | Difficult Position for at least  | c) Entry Feature or Exit Feature       | b)  Lifting partner sustains a      | R                                         |
+|                                                   | 3 sec                            | Note:                                  | Difficult Position for at least 3   | ifted partner moves through a             |
+|                                                   | c) Lifted partner held off       | a) and/or b) Features must be          | sec                                 | Change of Pose                            |
+|                                                   | ice for at least 5 seconds       | included.                              | c) Entry Feature(s)                 | ) Lifting partner sustains a Difficult    |
+|                                                   | (in a recognized type of Lift)   |                                        | ) Exit Feature(s)                   | Position for at least 3 sec               |
+|                                                   |                                  |                                        | ote:                                | ) Entry Feature(s)                        |
+|                                                   |                                  |                                        | a) and/or b) Features must be       |                                           |
+|                                                   |                                  |                                        | included.                           | d) Exit Feature(s)                        |
+|                                                   |                                  |                                        |                                     |                                           |
+|                                                   |                                  |                                        |                                     | Note:                                     |
+|                                                   |                                  |                                        |                                     | a) and/or b) Features must be             |
+|                                                   |                                  |                                        |                                     | included.                                 |
+| Rotational Lift                                   |                                  |                                        |                                     |                                           |
+| Basic Level                                       | Level 1                          | Level 2                                | Level 3                             | Level 4                                   |
+| L                                                 | O                                | O                                      | O                                   | O                                         |
+|   A                                               | OPTION 1                         |                                        | OPTION 1                            | OPTION 1                                  |
+| ifted partner is                                  | Lifted partner sustains a        | OPTION 1                               | Lifted partner sustains a           | Lifted partner sustains a Difficult Pose  |
+| held off the ice                                  | Difficult Pose                   | Lifted partner sustains a Difficult    | Difficult Pose                      | - through at least 5 rotations            |
+| through at least 3                                | - through at least 3 rotations   | Pose                                   | - through at least 5 rotations      | OR                                        |
+| rotations                                         | OR                               | - through at least 4 rotations         | OR                                  | - moves through a Change of Pose          |
+| AND                                               | - moves through a Change         | OR                                     | - moves through a Change of         | AND                                       |
+| Lifting partner                                   | of Pose                          | - moves through a Change of Pose       | Pose                                | Lifting partner moves through at least 6  |
+| moves through at                                  | AND                              | AND                                    | AND                                 | rotations                                 |
+| least 3 rotations                                 | Lifting partner moves            | Lifting partner moves through at       | Lifting partner moves through at    | AND One of the following:                 |
+| ND                                                | through at least 3 rotations     | least 4 rotations                      | least 5 rotations                   | - Entry Feature                           |
+| Lifted partner is                                 | PTION 2                          | PTION 2                                | PTION 2                             | - Exit Feature                            |
+| held off the ice                                  | Lifting partner moves            | Lifting partner moves through at       | Lifting partner moves through       | - Rotational Lift Extra Feature           |
+| through at least 3                                | through at least 4 rotations     | least 5 rotations                      | at least 6 rotations                | PTION 2                                   |
+| seconds                                           |                                  |                                        | AND ONE of the following:           | Lifting partner moves through at least 6  |
+|                                                   |                                  |                                        | - Entry Feature                     | rotations                                 |
+|                                                   |                                  |                                        | - Exit Feature                      | AND TWO of the following:                 |
+|                                                   |                                  |                                        | - Rotational Lift Extra Feature     | - Entry Feature(s)                        |
+|                                                   |                                  |                                        |                                     | - Exit Feature                            |
+|                                                   |                                  |                                        |                                     | - Rotational Lift Extra Feature           |
+------------------
+
 
 
 Rotational Lift
@@ -475,45 +345,26 @@ At least 3 rotations in total (to lift, hold and set down)
 AND One Hand/Arm Rotational Lift Extra Feature AND Entry or Exit Feature OR
 At least 4 rotations in total (to lift, hold and set down)
 AND One Hand/Arm Rotational Lift Extra Feature
-Таблица 3 (страницы 12):
-Rotational Lift – One Hand/Arm Lift: Basic Level; : 0
-Level 1
-Level 2
-Level 3
-Level 4
-Level 1
-Level 2
-Level 3
-Level 4
-Level 1
-Level 2
-Level 3
-Level 4
-Level 1
-Level 2
-Level 3
-Level 4
-Rotational Lift – One Hand/Arm Lift: Lifting partner in
-One Hand/Arm
-Lift at least 3
-rotations (to
-hold); : 0
-At least 3 rotations in total \n(to lift AND h...
-At least 3 rotations in total (to lift, \nhold...
-At least 3 rotations in total (to \nlift, hold...
-A\n  A\nAt least 3 rotations in total (to lift...
-At least 3 rotations in total \n(to lift AND h...
-At least 3 rotations in total (to lift, \nhold...
-At least 3 rotations in total (to \nlift, hold...
-A\n  A\nAt least 3 rotations in total (to lift...
-At least 3 rotations in total \n(to lift AND h...
-At least 3 rotations in total (to lift, \nhold...
-At least 3 rotations in total (to \nlift, hold...
-A\n  A\nAt least 3 rotations in total (to lift...
-At least 3 rotations in total \n(to lift AND h...
-At least 3 rotations in total (to lift, \nhold...
-At least 3 rotations in total (to \nlift, hold...
-A\n  A\nAt least 3 rotations in total (to lift...
+
+
+--- Table 3 ---
+| Rotational Lift – One Hand/Arm Lift   |                                |                                          |                                    |                                               |
+|:--------------------------------------|:-------------------------------|:-----------------------------------------|:-----------------------------------|:----------------------------------------------|
+| Basic Level                           | Level 1                        | Level 2                                  | Level 3                            | Level 4                                       |
+| Lifting partner in                    | At least 3 rotations in total  | At least 3 rotations in total (to lift,  | At least 3 rotations in total (to  | A                                             |
+| One Hand/Arm                          | (to lift AND hold OR hold      | hold and set down)                       | lift, hold and set down)           |   A                                           |
+| Lift at least 3                       | AND set down)                  |                                          |                                    | At least 3 rotations in total (to lift, hold  |
+| rotations (to                         |                                |                                          | AND                                | and set down)                                 |
+| hold)                                 |                                |                                          | One Hand/Arm Rotational Lift       | ND One Hand/Arm Rotational Lift               |
+|                                       |                                |                                          | Extra Feature                      | Extra Feature                                 |
+|                                       |                                |                                          |                                    | AND Entry or Exit Feature                     |
+|                                       |                                |                                          |                                    | OR                                            |
+|                                       |                                |                                          |                                    | At least 4 rotations in total (to lift,       |
+|                                       |                                |                                          |                                    | hold and set down)                            |
+|                                       |                                |                                          |                                    | ND One Hand/Arm Rotational Lift               |
+|                                       |                                |                                          |                                    | Extra Feature                                 |
+------------------
+
 
 
 4. DANCE SPINS
@@ -578,79 +429,62 @@ Option 1: 3 different Difficult Variations from 3 different Basic Positions
 Option 2: 2 different Difficult Variations from 2 different Basic Positions AND Different direction of spinning rotation
 Option 1: 4 different Difficult Variations from 3 different Basic Positions (at least 2 different Difficult Variations being performed by partners simultaneously and each partner performs at least two of the Difficult Variations given credit for Level.) AND Entry feature or Exit Feature or Middle Feature
 OR Option 2: 3 different Difficult Variations from 3 different Basic Positions AND Different direction of spinning rotation AND Entry feature or Exit Feature or Middle Feature or 2nd Different Direction of Rotation
-Таблица 4 (страницы 15, 16):
-Basic Level
-DSp - 3 rotations: Dance Spin: at least 3
-rotations continuously
-on one foot by both
-partners
-simultaneously in any
-part of the Spin; Level 1
-DSp - 3 rotations: Option 1: 1 Difficult
-Variation from any
-Basic Positions
-Option 2: Different
-direction of spinning
-rotation; Level 2
-DSp - 3 rotations: Option 1: 2 different
-Difficult Variations from 2
-different Basic Positions
-Option 2:  1 Difficult
-Variation from any Basic
-Position
-AND
-Different direction of
-spinning rotation; Level 3
-DSp - 3 rotations: Option 1: 3 different
-Difficult Variations from 3
-different Basic Positions
-Option 2: 2 different
-Difficult Variations from 2
-different Basic Positions
-AND
-Different direction of
-spinning rotation; Level 4
-DSp - 3 rotations: Option 1: 4 different Difficult Variations
-from 3 different Basic Positions (at least 2
-different Difficult Variations being performed
-by partners simultaneously and each partner
-performs at least two of the Difficult
-Variations given credit for Level.)
-AND
-Entry feature or Exit Feature or Middle
-Feature
-Option 2: 3 different Difficult Variations
-from 3 different Basic Positions
-AND
-Different direction of spinning rotation
-AND
-Entry feature or Exit Feature or Middle
-Feature or 2nd Different Direction of Rotation
-Basic Level
-DSp - 3 rotations: Basic Level
-(for each partner); Level 1
-DSp - 3 rotations: Level 1
-(for each partner); Level 2
-DSp - 3 rotations: Level 2
-(for each partner); Level 3
-DSp - 3 rotations: Level 3
-(for each partner); Level 4
-DSp - 3 rotations: Level 4
-(for each partner)
-Basic Level
-DSp - 3 rotations: At least 1 Type of
-One Foot Turn is
-executed; Level 1
-DSp - 3 rotations: 1 Type of One Foot Turns
-correctly executed; Level 2
-DSp - 3 rotations: 2 different Types of One Foot
-Turns correctly executed; Level 3
-DSp - 3 rotations: 3 different Types of One Foot Turns
-correctly executed; Level 4
-DSp - 3 rotations: ALL 4 different Types of One Foot
-Turns correctly executed
-AND
-The entire sequence is 100% clean
+
+
+--- Table 4 ---
+| Basic Level         | Dance Spin: at least 3                          | Basic Level          | At least 1 Type of                    |
+| DSp - 3 rotations   | rotations continuously                          | (for each partner)   | One Foot Turn is                      |
+|                     | on one foot by both                             |                      | executed                              |
+|                     | partners                                        |                      |                                       |
+|                     | simultaneously in any                           |                      |                                       |
+|                     | part of the Spin                                |                      |                                       |
+|:--------------------|:------------------------------------------------|:---------------------|:--------------------------------------|
+| Level 1             | Option 1: 1 Difficult                           | Level 1              | 1 Type of One Foot Turns              |
+| DSp - 3 rotations   | Variation from any                              | (for each partner)   | correctly executed                    |
+|                     | Basic Positions                                 |                      |                                       |
+|                     | OR                                              |                      |                                       |
+|                     | Option 2: Different                             |                      |                                       |
+|                     | direction of spinning                           |                      |                                       |
+|                     | rotation                                        |                      |                                       |
+| Level 2             | Option 1: 2 different                           | Level 2              | 2 different Types of One Foot         |
+| DSp - 3 rotations   | Difficult Variations from 2                     | (for each partner)   |   Turns correctly executed            |
+|                     | different Basic Positions                       |                      |                                       |
+|                     | OR                                              |                      |                                       |
+|                     | Option 2:  1 Difficult                          |                      |                                       |
+|                     | Variation from any Basic                        |                      |                                       |
+|                     | Position                                        |                      |                                       |
+|                     | AND                                             |                      |                                       |
+|                     | Different direction of                          |                      |                                       |
+|                     | spinning rotation                               |                      |                                       |
+| Level 3             | Option 1: 3 different                           | Level 3              | 3 different Types of One Foot Turns   |
+| DSp - 3 rotations   | Difficult Variations from 3                     | (for each partner)   |   correctly executed                  |
+|                     | different Basic Positions                       |                      |                                       |
+|                     | OR                                              |                      |                                       |
+|                     | Option 2: 2 different                           |                      |                                       |
+|                     | Difficult Variations from 2                     |                      |                                       |
+|                     | different Basic Positions                       |                      |                                       |
+|                     | AND                                             |                      |                                       |
+|                     | Different direction of                          |                      |                                       |
+|                     | spinning rotation                               |                      |                                       |
+| Level 4             | Option 1: 4 different Difficult Variations      | Level 4              | ALL 4 different Types of One Foot     |
+| DSp - 3 rotations   | from 3 different Basic Positions (at least 2    | (for each partner)   | Turns correctly executed              |
+|                     | different Difficult Variations being performed  |                      |                                       |
+|                     | by partners simultaneously and each partner     |                      | AND                                   |
+|                     | performs at least two of the Difficult          |                      | The entire sequence is 100% clean     |
+|                     | Variations given credit for Level.)             |                      |                                       |
+|                     | AND                                             |                      |                                       |
+|                     |  Entry feature or Exit Feature or Middle        |                      |                                       |
+|                     | Feature                                         |                      |                                       |
+|                     |   OR                                            |                      |                                       |
+|                     | Option 2: 3 different Difficult Variations      |                      |                                       |
+|                     | from 3 different Basic Positions                |                      |                                       |
+|                     | AND                                             |                      |                                       |
+|                     | Different direction of spinning rotation        |                      |                                       |
+|                     | AND                                             |                      |                                       |
+|                     |  Entry feature or Exit Feature or Middle        |                      |                                       |
+|                     | Feature or 2nd Different Direction of Rotation  |                      |                                       |
+------------------
+
 
 
 5 5.1. 1. One Foot Turns Sequence is evaluated as one unit with a Level for each partner. 2. Each partner performs the Difficult Turns of the One Foot Turns Sequence on their same foot, not in hold/touch/contact and must be started with the first Difficult
@@ -737,41 +571,22 @@ At least 3 different Additional Features from 3 different Groups
 At least 4 rotations in each of the two Twizzles
 AND
 At least 4 different Additional Features from 3 different Groups
-Таблица 5 (страницы 18):
-Basic Level: At least one
-rotation in each
-of the two
-Twizzles; Level 1: At least 2
-rotations in each
-of the two
-Twizzles
-AND
-At least 1
-Additional
-Features; Level 2: Different entry edge and different
-direction of rotation for the two
-Twizzles
-AND
-At least 2 rotations in each of the
-two Twizzles
-AND
-At least 2 different Additional
-Features from 2 different Groups; Level 3: Different entry edge and different
-direction of rotation for the two
-Twizzles
-AND
-At least 3 rotations in each of the two
-Twizzles
-AND
-At least 3 different Additional Features
-from 3 different Groups; Level 4: Different entry edge and different direction
-of rotation of the two Twizzles
-AND
-At least 4 rotations in each of the two
-Twizzles
-AND
-At least 4 different Additional Features from
-3 different Groups
+
+
+--- Table 5 ---
+| Basic Level       | Level 1            | Level 2                              | Level 3                                   | Level 4                                        |
+|:------------------|:-------------------|:-------------------------------------|:------------------------------------------|:-----------------------------------------------|
+| At least one      | At least 2         | Different entry edge and different   | Different entry edge and different        | Different entry edge and different direction   |
+| rotation in each  | rotations in each  | direction of rotation for the two    | direction of rotation for the two         | of rotation of the two Twizzles                |
+| of the two        | of the two         | Twizzles                             | Twizzles                                  | AND                                            |
+| Twizzles          | Twizzles           | AND                                  | AND                                       | At least 4 rotations in each of the two        |
+|                   | AND                | At least 2 rotations in each of the  | At least 3 rotations in each of the two   | Twizzles                                       |
+|                   | At least 1         | two Twizzles                         | Twizzles                                  | AND                                            |
+|                   | Additional         | AND                                  | AND                                       | At least 4 different Additional Features from  |
+|                   | Features           | At least 2 different Additional      | At least 3 different Additional Features  | 3 different Groups                             |
+|                   |                    | Features from 2 different Groups     | from 3 different Groups                   |                                                |
+------------------
+
 
 
 STEP SEQUENCES (including PATTERN DANCE TYPE STEP SEQUENCE)
@@ -847,62 +662,37 @@ At least 2 Dance Holds
 At least 3 Dance Holds
 Steps/Turns
 All Steps/Turns are 100% clean
-Таблица 6 (страницы 20):
-Requirements: F
-Completed
-ootwork
-ance Holds
-(FD only)
-ultidirectional
-teps/Turns; Basic Level: A
-50% of the pattern
-in total
-t least 1 Dance
-Hold; Level 1: a
-50% of the pattern in total
-t least 1 Type of Difficult
-Turn
-t least 1 Dance Hold; Level 2: a
-75% of the pattern in total
-t least 3 Type of Difficult
-Turns
-t least 2 Dance Holds; Level 3: a
-90% of the pattern in total
-t least 4 Types of Difficult
-Turns
-t least 3 Dance Holds
-urns Multidirectional; Level 4: a
-100% without interruption
-t least 5 Types of Difficult
-Turns
-t least 3 Dance Holds
-urns Multidirectional
-ll Steps/Turns are 100% clean
-Таблица 7 (страницы 20):
-Requirements: F
-Completed
-ootwork
-ance Holds
-teps/Turns; Basic Level: A
-50% of the pattern
-in total
-t least 1 Dance
-Hold; Level 1: i
-50% of the pattern in total
-ncludes 1 Difficult Turn in
-total
-t least 1 Dance Hold; Level 2: I
-75% of the pattern in total
-ncludes 2 Difficult Turn in
-total
-t least 1 Dance Hold; Level 3: i
-90% of the pattern in total
-ncludes 3 Difficult Turn in total
-t least 2 Dance Holds; Level 4: i
-100% without interruptions
-ncludes 4 Difficult Turn in total
-t least 3 Dance Holds
-ll Steps/Turns are 100% clean
+
+
+--- Table 6 ---
+| Requirements     | Basic Level         | Level 1                      | Level 2                       | Level 3                       | Level 4                       |
+|:-----------------|:--------------------|:-----------------------------|:------------------------------|:------------------------------|:------------------------------|
+| F                | A                   | a                            | a                             | a                             | a                             |
+|     D            | 50% of the pattern  |   A                          |   A                           |   A                           |   A                           |
+|     M            | in total            | 50% of the pattern in total  | 75% of the pattern in total   |       T                       |       T                       |
+|   S              | t least 1 Dance     | t least 1 Type of Difficult  | t least 3 Type of Difficult   | 90% of the pattern in total   |   A                           |
+| Completed        | Hold                | Turn                         | Turns                         | t least 4 Types of Difficult  | 100% without interruption     |
+| ootwork          |                     | t least 1 Dance Hold         | t least 2 Dance Holds         | Turns                         | t least 5 Types of Difficult  |
+| ance Holds       |                     |                              |                               | t least 3 Dance Holds         | Turns                         |
+| (FD only)        |                     |                              |                               | urns Multidirectional         | t least 3 Dance Holds         |
+| ultidirectional  |                     |                              |                               |                               | urns Multidirectional         |
+| teps/Turns       |                     |                              |                               |                               | ll Steps/Turns are 100% clean |
+------------------
+
+
+
+--- Table 7 ---
+| Requirements   | Basic Level         | Level 1                      | Level 2                      | Level 3                            | Level 4                            |
+|:---------------|:--------------------|:-----------------------------|:-----------------------------|:-----------------------------------|:-----------------------------------|
+| F              | A                   | i                            | I                            | i                                  | i                                  |
+|     D          | 50% of the pattern  |   A                          |   A                          |     A                              |     A                              |
+|     S          | in total            | 50% of the pattern in total  | 75% of the pattern in total  | 90% of the pattern in total        |     A                              |
+| Completed      | t least 1 Dance     | ncludes 1 Difficult Turn in  | ncludes 2 Difficult Turn in  | ncludes 3 Difficult Turn in total  | 100% without interruptions         |
+| ootwork        | Hold                | total                        | total                        | t least 2 Dance Holds              | ncludes 4 Difficult Turn in total  |
+| ance Holds     |                     | t least 1 Dance Hold         | t least 1 Dance Hold         |                                    | t least 3 Dance Holds              |
+| teps/Turns     |                     |                              |                              |                                    | ll Steps/Turns are 100% clean      |
+------------------
+
 
 
 8. 8.1. Key Point and Key Point Features: a Key Point is correctly executed when all its related Key Point Features are met and all its Edges/Steps are held for the required number of beats. Key Points and Key Point Features are technical requirements valid for one season and are published in the corresponding ISU Communication. A change of edge within the last ½ beat of a step is permitted to prepare the push/transition to the next step (unless otherwise prescribed) 8.2. LEVELS OF DIFFICULTY
@@ -935,46 +725,40 @@ Key Points: Must include correct turns, edges, foot placement and timing. Note: 
 1PD : 1 Sequence of Rhumba, to be followed back to back with 2PD 2PD : 1 Sequence of Quickstep skated right after 1PD
 Note:
 Push/Transition to the next step A change of edge within the last ½ beat of a step is permitted to prepare the push/transition to the next step
-Таблица 8 (страницы 21):
-Basic Level: 5
-0% of Pattern Dance
-Element is completed
-by both partners; Level 1: 7
-5% of Pattern Dance
-Element + 1 Key Point is
-correctly executed; Level 2: 7
-5% of Pattern Dance Element
-+ 2 Key Points are correctly
-executed; Level 3: 9
-0% of Pattern Dance
-Element + 3 Key Points are
-correctly executed; Level 4: 1
-00% of Pattern Dance
-Element without interruption +
-4 Key Points are correctly
-executed
-Таблица 9 (страницы 21):
-Pattern Dance Element
-(1RH) Steps # 1-16: Pattern Dance Element
-(1QS) Steps # 1-18; Key Point 1 (Woman)
-Woman Steps 11,12,13
-(Wd-LFI Wd-XF Op Cho,
-RBO Wd-XB-Cl Cho, LFI): Key Point 1 (Woman)
-Woman Steps 5 & 6
-(LFO Sw-ClCho, RBIO); Key Point 2 (Man)
-Man Steps 11, 12, 13
-(Wd-LFI Wd-XF Op Cho,
-RBO Wd-XB-Cl Cho, LFI): Key Point 2 (Man)
-Man Steps 5 & 6
-(LFO Sw-ClCho, RBIO); Key Point 3 (Woman)
-Woman Step 14
-(RFI3): Key Point 3 (Woman)
-Woman Steps 11 & 12
-(LFI,RFI); Key Point 4 (Man)
-Man Step 14
-(RFI3): Key Point 4 (Man)
-Man Steps 17 & 18
-(XB-LFIO, XF-RFI)
+
+
+--- Table 8 ---
+| Basic Level           | Level 1                   | Level 2                       | Level 3                     | Level 4                         |
+|:----------------------|:--------------------------|:------------------------------|:----------------------------|:--------------------------------|
+| 5                     | 7                         | 7                             | 9                           | 1                               |
+| 0% of Pattern Dance   | 5% of Pattern Dance       | 5% of Pattern Dance Element   | 0% of Pattern Dance         | 00% of Pattern Dance            |
+| Element is completed  | Element + 1 Key Point is  | + 2 Key Points are correctly  | Element + 3 Key Points are  | Element without interruption +  |
+| by both partners      | correctly executed        | executed                      | correctly executed          | 4 Key Points are correctly      |
+|                       |                           |                               |                             | executed                        |
+------------------
+
+
+
+--- Table 9 ---
+| Pattern Dance Element    | Pattern Dance Element    |
+| (1RH) Steps # 1-16       | (1QS) Steps # 1-18       |
+|:-------------------------|:-------------------------|
+| Key Point 1 (Woman)      | Key Point 1 (Woman)      |
+| Woman Steps 11,12,13     | Woman Steps 5 & 6        |
+| (Wd-LFI Wd-XF Op Cho,    | (LFO Sw-ClCho, RBIO)     |
+| RBO Wd-XB-Cl Cho, LFI)   |                          |
+| Key Point 2 (Man)        | Key Point 2 (Man)        |
+| Man Steps 11, 12, 13     | Man Steps 5 & 6          |
+| (Wd-LFI Wd-XF Op Cho,    | (LFO Sw-ClCho, RBIO)     |
+| RBO Wd-XB-Cl Cho, LFI)   |                          |
+| Key Point 3 (Woman)      | Key Point 3 (Woman)      |
+| Woman Step 14            | Woman Steps 11 & 12      |
+| (RFI3)                   | (LFI,RFI)                |
+| Key Point 4 (Man)        | Key Point 4 (Man)        |
+| Man Step 14              | Man Steps 17 & 18        |
+| (RFI3)                   | (XB-LFIO, XF-RFI)        |
+------------------
+
 
 
 8.4. ADDITIONAL PRINCIPLES OF CALLING 1. The process used by the Technical Panel to identify Key Points and their correct execution is the same process as for identification of Required
@@ -1004,62 +788,17 @@ Rhumba Quickstep
 8 9
 12 14
 14 16
-Таблица 10 (страницы 22):
-25%
-50%
-75%
-90%
-25%
-50%
-75%
-90%
-25%
-50%
-75%
-90%
-25%
-50%
-75%
-90%
-25%
-50%
-75%
-90%
-DANCE: Rhumba
-Quickstep; : 0
-+120 bpm \n+120 bpm
-4\n \n5
-8 \n9
-12 \n14
-14 \n16
-DURATION
-IN SECS
-PER
-SEQUENCE: 16
-14; REQUIRED SECTION or
-SEQUENCES: 1 Sequence
-1 Sequence; No OF STEPS
-PER SECTION
-OR SEQUENCE: 1
-18; No of Steps: 2
-2; : 0
-+120 bpm \n+120 bpm
-4\n \n5
-8 \n9
-12 \n14
-14 \n16
-+120 bpm \n+120 bpm
-4\n \n5
-8 \n9
-12 \n14
-14 \n16
-+120 bpm \n+120 bpm
-4\n \n5
-8 \n9
-12 \n14
-14 \n16
-+120 bpm \n+120 bpm
-4\n \n5
-8 \n9
-12 \n14
-14 \n16
+
+
+--- Table 10 ---
+| DANCE     |           | MAXIMUM     | REQUIRED SECTION or    | No OF STEPS    | No of Steps   |     |     |     |     |
+|           |           | DURATION    | SEQUENCES              | PER SECTION    |               |     |     |     |     |
+|           |           | IN SECS     |                        | OR SEQUENCE    |               |     |     |     |     |
+|           |           | PER         |                        |                |               |     |     |     |     |
+|           |           | SEQUENCE    |                        |                |               |     |     |     |     |
+|:----------|:----------|:------------|:-----------------------|:---------------|:--------------|:----|:----|:----|:----|
+|           |           |             |                        |                | 10%           | 25% | 50% | 75% | 90% |
+| Rhumba    | +120 bpm  | 16          | 1 Sequence             | 1              | 2             | 4   | 8   | 12  | 14  |
+| Quickstep | +120 bpm  | 14          | 1 Sequence             | 6              | 2             |     | 9   | 14  | 16  |
+|           |           |             |                        | 18             |               | 5   |     |     |     |
+------------------

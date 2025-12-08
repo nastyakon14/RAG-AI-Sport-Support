@@ -37,80 +37,81 @@ Note: For the above to apply, the program as a whole is still deemed to be “Ex
 Red
 **When there are 2 or more errors and these errors only minimally impact the program, the maximum score of 8.75 is possible. Note: an error by both partners, happening at the same time or not (e.g. Fall by 2) must be considered as 2 errors. Note: this basic principle applies equally when the errors occur within an element and/or outside an element.
 July 2023
-Таблица 1 (страницы 1):
-Timing: The ability of the Couple
-to skate strictly in time
-with the music.; Presentation: T
-hrough the involvement of
-the couple, the
-demonstration of the
-correct rhythm or style as
-required by the description
-of the dance or by the
-specific style of the dance.; Skating Skills: The ability of the Couple
-to precisely execute dance
-steps and movements in
-accordance with the
-dance description with
-power, balance, depth of
-edges, easy transition
-from one foot or lobe to
-the other, glide, and flow.
-Timing: Musical Sensitivity
-Expressiveness & projection
-Overall skating quality
-Timing: Skating in time with the
-music; Presentation: Unison, oneness and
-awareness of space; Skating Skills: Clarity of edges, steps,
-turns, movements and body
-control
-Timing: Skating on the Strong Beat
-Start of the first Step on
-beat 1; Skating Skills: Balance and Glide
-Flow, Power and Speed
-Ice Coverage
-Таблица 2 (страницы 1):
-Serious Error(s)
-Serious errors are falls and/or mistakes which result in a break in the delivery of the program. This
-break can be minimal or more pronounced and noticeable. These errors must be reflected in the mark
-awarded for each program component. The consequence depends on the severity and impact they
-have on the fluidity and continuity of the program. The following guideline should be used.: Errors
-Category
-Mark range
-Definition
-Platinum
-Outstanding
-No errors
-No serious errors
-Diamond
-9.75
-Excellent
-Only 1 serious error
-9.00 – 9.50*
-2 or more serious errors
-Gold
-8.00 – 8.75**
-Very good
-7.00 – 7.75
-Good
-Green
-6.00 – 6.75
-Above average
-5.00 – 5.75
-Average
-Orange
-4.00 – 4.75
-Fair
-3.00 – 3.75
-Weak; : 0
-*\n  N\nFor all Components: \nWhen there is on...
-*\n  N\nFor all Components: \nWhen there is on...
-Serious Error(s)
-Serious errors are falls and/or mistakes which result in a break in the delivery of the program. This
-break can be minimal or more pronounced and noticeable. These errors must be reflected in the mark
-awarded for each program component. The consequence depends on the severity and impact they
-have on the fluidity and continuity of the program. The following guideline should be used.: Red; : 0
-2.00 – 2.75 \nPoor \n1.00 – 1.75 \nVery poor \...
-*\note:    For  the  above  to  apply,  the  p...
-2.00 – 2.75 \nPoor \n1.00 – 1.75 \nVery poor \...
-*\note:    For  the  above  to  apply,  the  p...
+
+
+--- Table 1 ---
+| Timing                       | Presentation                 | Skating Skills              |
+|:-----------------------------|:-----------------------------|:----------------------------|
+| The ability of the Couple    | T                            | The ability of the Couple   |
+| to skate strictly in time    | hrough the involvement of    | to precisely execute dance  |
+| with the music.              | the couple, the              | steps and movements in      |
+|                              | demonstration of the         | accordance with the         |
+|                              | correct rhythm or style as   | dance description with      |
+|                              | required by the description  | power, balance, depth of    |
+|                              | of the dance or by the       | edges, easy transition      |
+|                              | specific style of the dance. | from one foot or lobe to    |
+|                              |                              | the other, glide, and flow. |
+| Musical Sensitivity          |                              |                             |
+| Expressiveness & projection  |                              |                             |
+| Overall skating quality      |                              |                             |
+| Skating in time with the     | Unison, oneness and          | Clarity of edges, steps,    |
+| music                        | awareness of space           | turns, movements and body   |
+|                              |                              | control                     |
+| Skating on the Strong Beat   |                              | Balance and Glide           |
+| Start of the first Step on   |                              | Flow, Power and Speed       |
+| beat 1                       |                              | Ice Coverage                |
+------------------
+
+
+
+--- Table 2 ---
+| Serious Error(s)                                                                                         | Errors                      |                                                                        | Red                                                                         |
+| Serious errors are falls and/or mistakes which result in a break in the delivery of the program. This    | Category                    |                                                                        |                                                                             |
+| break can be minimal or more pronounced and noticeable. These errors must be reflected in the mark       | Mark range                  |                                                                        |                                                                             |
+| awarded for each program component. The consequence depends on the severity and impact they              | Definition                  |                                                                        |                                                                             |
+| have on the fluidity and continuity of the program. The following guideline should be used.              |                             |                                                                        |                                                                             |
+|                                                                                                          | Platinum                    |                                                                        |                                                                             |
+|                                                                                                          | 10                          |                                                                        |                                                                             |
+|                                                                                                          | Outstanding                 |                                                                        |                                                                             |
+|                                                                                                          | No errors                   |                                                                        |                                                                             |
+|                                                                                                          |                             |                                                                        |                                                                             |
+|                                                                                                          | No serious errors           |                                                                        |                                                                             |
+|                                                                                                          | Diamond                     |                                                                        |                                                                             |
+|                                                                                                          | 9.75                        |                                                                        |                                                                             |
+|                                                                                                          | Excellent                   |                                                                        |                                                                             |
+|                                                                                                          |                             |                                                                        |                                                                             |
+|                                                                                                          | Only 1 serious error        |                                                                        |                                                                             |
+|                                                                                                          | 9.00 – 9.50*                |                                                                        |                                                                             |
+|                                                                                                          |                             |                                                                        |                                                                             |
+|                                                                                                          | 2 or more serious errors    |                                                                        |                                                                             |
+|                                                                                                          | Gold                        |                                                                        |                                                                             |
+|                                                                                                          | 8.00 – 8.75**               |                                                                        |                                                                             |
+|                                                                                                          | Very good                   |                                                                        |                                                                             |
+|                                                                                                          | 7.00 – 7.75                 |                                                                        |                                                                             |
+|                                                                                                          | Good                        |                                                                        |                                                                             |
+|                                                                                                          | Green                       |                                                                        |                                                                             |
+|                                                                                                          | 6.00 – 6.75                 |                                                                        |                                                                             |
+|                                                                                                          | Above average               |                                                                        |                                                                             |
+|                                                                                                          | 5.00 – 5.75                 |                                                                        |                                                                             |
+|                                                                                                          | Average                     |                                                                        |                                                                             |
+|                                                                                                          | Orange                      |                                                                        |                                                                             |
+|                                                                                                          | 4.00 – 4.75                 |                                                                        |                                                                             |
+|                                                                                                          | Fair                        |                                                                        |                                                                             |
+|                                                                                                          | 3.00 – 3.75                 |                                                                        |                                                                             |
+|                                                                                                          | Weak                        |                                                                        |                                                                             |
+|:---------------------------------------------------------------------------------------------------------|:----------------------------|:-----------------------------------------------------------------------|:----------------------------------------------------------------------------|
+|                                                                                                          |                             |                                                                        | 2.00 – 2.75                                                                 |
+|                                                                                                          |                             |                                                                        | Poor                                                                        |
+|                                                                                                          |                             |                                                                        | 1.00 – 1.75                                                                 |
+|                                                                                                          |                             |                                                                        | Very poor                                                                   |
+|                                                                                                          |                             |                                                                        | 0.25 – 0.75                                                                 |
+|                                                                                                          |                             |                                                                        | Extremely poor                                                              |
+|                                                                                                          |                             | *                                                                      | *                                                                           |
+|                                                                                                          |                             |   N                                                                    | ote:    For  the  above  to  apply,  the  program  as  a  whole  is  still  |
+|                                                                                                          |                             | For all Components:                                                    | deemed to be “Excellent”.                                                   |
+|                                                                                                          |                             | When there is only one error and this error minimally impacts          | *When                                                                       |
+|                                                                                                          |                             | the  program,  the  maximum  score  of  9.50  is  possible  as  noted  | there  are  2  or  more  errors  and                                        |
+|                                                                                                          |                             | above.                                                                 | these  errors  only                                                         |
+|                                                                                                          |                             |                                                                        | minimally  impact  the  program,  the  maximum  score  of  8.75  is         |
+|                                                                                                          |                             |                                                                        | possible.                                                                   |
+------------------
