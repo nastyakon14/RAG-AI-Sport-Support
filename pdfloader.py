@@ -201,18 +201,85 @@ def clean_pdf_text(text: str) -> str:
     return "\n".join(cleaned_lines)
 
 
+
+def infer_pdf_metadata(pdf_path: str) -> Dict[str, Any]:
+    """
+    Метаданные:
+    - audience: pro / amateur / isu
+    - discipline: singles / pairs / ice_dance / synchro / general
+    - season: '2024-2025', '2025', ...
+    - level: adult_amateur / kids_amateur / unspecified
+    - doc_type: rules / technical_requirements / handbook / ranks / other
+    """
+    meta: Dict[str, Any] = {}
+    parts = pdf_path.split(os.sep)
+    folder = parts[1] if len(parts) > 1 else ""
+    filename = os.path.basename(pdf_path)
+    fname_lower = filename.lower()
+
+    # 1) Аудитория / уровень
+    if "профессионалы" in folder.lower():
+        meta["audience"] = "pro"
+    elif "любители" in folder.lower():
+        meta["audience"] = "amateur"
+    elif "isu" in folder.lower():
+        meta["audience"] = "isu"
+    else:
+        meta["audience"] = "unknown"
+
+    # 2) Дисциплина
+    if "одиноч" in fname_lower:
+        meta["discipline"] = "singles"
+    elif "парн" in fname_lower:
+        meta["discipline"] = "pairs"
+    elif "танц" in fname_lower:
+        meta["discipline"] = "ice_dance"
+    elif "синхрон" in fname_lower:
+        meta["discipline"] = "synchro"
+    else:
+        meta["discipline"] = "general"
+
+    # 3) Сезон / год (форматы вида 2024-2025, 2024-25, просто 2024)
+    season_match = re.search(r"(20\d{2})\s*[-–]\s*(20\d{2})", filename)
+    if season_match:
+        meta["season"] = f"{season_match.group(1)}-{season_match.group(2)}"
+    else:
+        year_match = re.search(r"(20\d{2})", filename)
+        if year_match:
+            meta["season"] = year_match.group(1)
+
+    # 4) Уровень внутри любителей (дети / взрослые)
+    if "взросл" in fname_lower:
+        meta["level"] = "adult_amateur"
+    elif "дет" in fname_lower and "любител" in fname_lower:
+        meta["level"] = "kids_amateur"
+    else:
+        meta["level"] = "unspecified"
+
+    # 5) Тип документа
+    if "правила" in fname_lower:
+        meta["doc_type"] = "rules"
+    elif "технические требования" in fname_lower or "техтребован" in fname_lower:
+        meta["doc_type"] = "technical_requirements"
+    elif "руководств" in fname_lower:
+        meta["doc_type"] = "handbook"
+    elif "разряд" in fname_lower:
+        meta["doc_type"] = "ranks"
+    else:
+        meta["doc_type"] = "other"
+
+    meta["source_file"] = pdf_path
+    return meta
+
+
+
 # ------------------------------------------------------------------------------------------
 #  ЗАГРУЗЧИК PDF: ТЕКСТ + ТАБЛИЦЫ (JSON)
 
 def load_pdf(pdf_file: str) -> List[Document]:
-    """
-    Загружает PDF. Текст + Таблицы.
-    ВАЖНО: Таблицы конвертируются в Markdown и добавляются в page_content,
-    чтобы FAISS мог их индексировать.
-    """
     print(f"Processing: {pdf_file}")
-    
-    # 1. Текст (постранично)
+
+    # 1. Текст
     try:
         loader = UnstructuredPDFLoader(pdf_file, mode="paged")
         page_docs = loader.load()
@@ -220,9 +287,8 @@ def load_pdf(pdf_file: str) -> List[Document]:
         print(f"Ошибка чтения текста PDF {pdf_file}: {e}")
         return []
 
-    # 2. Таблицы (Camelot)
+    # 2. Таблицы
     try:
-        # flavor='lattice' для таблиц с линиями, 'stream' для таблиц без линий (пробелы)
         raw_tables = camelot.read_pdf(pdf_file, pages="all", flavor="lattice")
     except Exception as e:
         print(f"Camelot не смог прочитать таблицы (или их нет): {e}")
@@ -235,11 +301,9 @@ def load_pdf(pdf_file: str) -> List[Document]:
         df_clean = normalize_header_and_data(t["df"])
         if df_clean.empty:
             continue
-        
-        # Сохраняем и JSON (для метаданных) и Markdown (для поиска)
+
         table_json = df_to_rowwise_json(df_clean)
-        # Markdown представление таблицы для LLM
-        table_md = df_clean.to_markdown(index=False) 
+        table_md = df_clean.to_markdown(index=False)
 
         item = {
             "table_index": idx,
@@ -249,38 +313,37 @@ def load_pdf(pdf_file: str) -> List[Document]:
         }
         tables_by_page[t["pages"][0]].append(item)
 
-    # 3. Сборка Documents
+    # метаданные файла
+    pdf_level_meta = infer_pdf_metadata(pdf_file)
+
     final_docs: List[Document] = []
 
     for page_idx, page_doc in enumerate(page_docs):
         page_number = page_idx + 1
-        
+
         raw_text = page_doc.page_content or ""
         text_clean = clean_pdf_text(raw_text)
-        
-        # Получаем таблицы для этой страницы
+
         page_tables = tables_by_page.get(page_number, [])
-        
-        # Формируем итоговый текст страницы: Текст + Таблицы в Markdown
+
         content_parts = []
         if text_clean:
             content_parts.append(text_clean)
-        
+
         for tbl in page_tables:
-            # Добавляем маркер, что это таблица, чтобы LLM понимала
-            content_parts.append(f"\n--- Table {tbl['table_index']} ---\n{tbl['markdown']}\n------------------\n")
-            
+            content_parts.append(
+                f"\n--- Table {tbl['table_index']} ---\n{tbl['markdown']}\n------------------\n"
+            )
+
         full_page_content = "\n\n".join(content_parts)
 
-        # Если пусто - пропускаем
         if not full_page_content.strip():
             continue
 
         metadata = dict(page_doc.metadata) if page_doc.metadata else {}
         metadata["page_number"] = page_number
         metadata["source"] = pdf_file
-        # Можно сохранить JSON таблиц в метаданные, но осторожно с размером
-        # metadata["tables_data"] = [t["rows"] for t in page_tables] 
+        metadata.update(pdf_level_meta)  # <--- важная строка
 
         final_docs.append(Document(page_content=full_page_content, metadata=metadata))
 
