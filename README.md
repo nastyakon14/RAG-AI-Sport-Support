@@ -1,3 +1,6 @@
+<img width="573" height="198" alt="Logo" src="https://github.com/user-attachments/assets/3c62f94a-0808-4263-90a9-e98032e2487e" />
+
+
 # RAG-система по правилам фигурного катания
 
 ### 1. Архитектура пайплайна
