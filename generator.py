@@ -1,8 +1,6 @@
 import os
 from langchain_openai import ChatOpenAI
 from langchain_classic.schema import HumanMessage, SystemMessage
-
-
 class GeneratorFS:
 
   def __init__(self,
@@ -31,7 +29,7 @@ class GeneratorFS:
         model = model,
         api_key = self.OPENAI_API_KEY,
         # base_url = self.OPENAI_URL,
-        temperature = 0.2, # вариативность модели
+        temperature = 0, # вариативность модели
     )
 
   def get_llm_answer(self, query,
