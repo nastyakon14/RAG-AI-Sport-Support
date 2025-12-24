@@ -1,0 +1,8 @@
+services:
+  sport-support-db:
+    image: postgres:18.1-alpine3.23
+    container_name: sport-support-db
+    env_file:
+      - .env.compose
+    ports:
+      - "5432:5432"

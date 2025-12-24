@@ -1,12 +1,11 @@
 import os
 import re
 from collections import defaultdict
-from typing import List, Dict, Any
+from typing import Any, Dict, List
 
-import pandas as pd
 import camelot
-
-from langchain_community.document_loaders import WebBaseLoader, UnstructuredPDFLoader
+import pandas as pd
+from langchain_community.document_loaders import UnstructuredPDFLoader
 from langchain_core.documents import Document
 
 
@@ -45,10 +44,7 @@ def concat_tables(raw_tables: camelot.core.TableList) -> List[Dict[str, Any]]:
             if (new_df.iloc[0] == current["df"].iloc[0]).all():
                 new_df = new_df.iloc[1:]
 
-            current["df"] = pd.concat(
-                [current["df"], new_df],
-                ignore_index=True
-            )
+            current["df"] = pd.concat([current["df"], new_df], ignore_index=True)
             current["pages"].append(page)
         else:
             # предыдущая логическая таблица закончилась
@@ -81,7 +77,7 @@ def normalize_header_and_data(
     """
 
     # заполняем пропуски для объединенных ячеек значениями из предыдущих строк
-    df.fillna(method='ffill', inplace=True)
+    df.fillna(method="ffill", inplace=True)
 
     # убираем полностью пустые строки/колонки
     df = df.dropna(axis=0, how="all")
@@ -102,7 +98,7 @@ def normalize_header_and_data(
         df = df.T
 
         # После транспонирования ещё раз почистим пустые строки/колонки
-        df.fillna(method='ffill', inplace=True)
+        df.fillna(method="ffill", inplace=True)
         df = df.dropna(axis=0, how="all")
         df = df.dropna(axis=1, how="all")
 
@@ -127,7 +123,6 @@ def normalize_header_and_data(
     data = data[mask_not_empty].reset_index(drop=True)
 
     return data
-
 
 
 def df_to_rowwise_json(df: pd.DataFrame) -> List[Dict[str, str]]:
@@ -201,7 +196,6 @@ def clean_pdf_text(text: str) -> str:
     return "\n".join(cleaned_lines)
 
 
-
 def infer_pdf_metadata(pdf_path: str) -> Dict[str, Any]:
     """
     Метаданные:
@@ -272,9 +266,9 @@ def infer_pdf_metadata(pdf_path: str) -> Dict[str, Any]:
     return meta
 
 
-
 # ------------------------------------------------------------------------------------------
 #  ЗАГРУЗЧИК PDF: ТЕКСТ + ТАБЛИЦЫ (JSON)
+
 
 def load_pdf(pdf_file: str) -> List[Document]:
     print(f"Processing: {pdf_file}")
@@ -309,7 +303,7 @@ def load_pdf(pdf_file: str) -> List[Document]:
             "table_index": idx,
             "columns": list(df_clean.columns),
             "rows": table_json,
-            "markdown": table_md
+            "markdown": table_md,
         }
         tables_by_page[t["pages"][0]].append(item)
 
