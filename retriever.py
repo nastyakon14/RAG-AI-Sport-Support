@@ -3,8 +3,8 @@ from langchain_community.vectorstores import FAISS
 
 
 class RetrieverFS:
-  def __init__(self, top_k = 100):    
-  
+  def __init__(self, top_k = 15):
+
     model_name = "BAAI/bge-m3"
     # model_kwargs = {'device': 'cuda'}
     model_kwargs = {'device': 'cpu'}
@@ -15,7 +15,7 @@ class RetrieverFS:
         model_kwargs=model_kwargs,
         encode_kwargs=encode_kwargs,
     )
-    
+
     self.vectorstore = FAISS.load_local(
                 "faiss_index_bge_m3_2700",
                 embeddings,
@@ -23,7 +23,6 @@ class RetrieverFS:
             )
     self.top_k = top_k
     # self.reranker = FlagReranker("BAAI/bge-reranker-large", use_fp16=True)
-
 
 
   def extract_query_metadata(self, question):
@@ -79,42 +78,23 @@ class RetrieverFS:
         "audience": category,
     }
 
-  
-  def get_answer_retriever(self,
+
+  def get_retriever_answer(self,
     query,
-    metadata_flag = False,
-    reranker_flag = False
+    metadata_flag = False
       ):
 
     if metadata_flag:
-      # извлекаем метаданные из запроса 
-      metadata_filter = self.extract_query_metadata(query)
-      # print(metadata_filter)
-
-      # фильтруемся по метаданным
-      docs_answer = self.vectorstore.similarity_search(
-            query = query,
-            k = self.top_k, filter = metadata_filter
-          )
+        metadata_filter = self.extract_query_metadata(query)
+        docs = self.vectorstore.similarity_search(
+                query=query,
+                k=self.top_k,
+                filter=metadata_filter   # учитываем метаданные
+            )
     else:
-      # без метаданных
-      docs_answer = self.vectorstore.similarity_search(
-            query = query,
-            k = self.top_k
-          )
-      
-    # if reranker_flag:   # очениваем качество реранкера
-    #   pairs = [(query, d.page_content) for d in docs_answer]  
-    #   scores = self.reranker.compute_score(pairs)
-    #   ranked_docs = [
-    #       doc for _, doc in sorted(zip(scores, docs_answer), key=lambda x: x[0], reverse=True)
-    #   ]
+        docs = self.vectorstore.similarity_search(
+                query=query,
+                k=self.top_k
+            )
 
-    #   reranked_docs = ranked_docs[:5]  # топовые 5
-    #   return reranked_docs
-        
-    # else:
-    #   return docs_answer
-
-    docs = [doc.page_content for doc in docs_answer]
     return docs
