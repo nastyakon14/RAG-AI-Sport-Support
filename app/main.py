@@ -6,7 +6,7 @@ from aiogram import Bot, Dispatcher
 from app.bot.middlewares.db import DbSessionMiddleware
 from app.bot.routers import setup_routers
 from app.config import settings
-from rag_main import RagFS
+from app.rag.pipeline import RagFS
 
 
 async def main():

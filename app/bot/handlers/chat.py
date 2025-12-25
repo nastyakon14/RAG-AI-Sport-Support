@@ -6,8 +6,8 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.bot.keyboards import feedback_kb
 from app.db.repository import create_message, create_response, get_or_create_user
+from app.rag.pipeline import RagFS
 from app.utils.rag_text import split_answer_and_links
-from rag_main import RagFS
 
 router = Router()
 

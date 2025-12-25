@@ -16,7 +16,7 @@ class RetrieverFS:
         )
 
         self.vectorstore = FAISS.load_local(
-            "faiss_index_bge_m3_2700", embeddings, allow_dangerous_deserialization=True
+            "data/rag/index", embeddings, allow_dangerous_deserialization=True
         )
         self.top_k = top_k
         # self.reranker = FlagReranker("BAAI/bge-reranker-large", use_fp16=True)

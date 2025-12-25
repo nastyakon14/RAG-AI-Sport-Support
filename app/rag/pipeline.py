@@ -1,5 +1,5 @@
-from generator import GeneratorFS
-from retriever import RetrieverFS
+from app.rag.generator import GeneratorFS
+from app.rag.retriever import RetrieverFS
 
 
 class RagFS:
