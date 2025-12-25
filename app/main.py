@@ -6,6 +6,7 @@ from aiogram import Bot, Dispatcher
 from app.bot.middlewares.db import DbSessionMiddleware
 from app.bot.routers import setup_routers
 from app.config import settings
+from rag_main import RagFS
 
 
 async def main():
@@ -17,7 +18,8 @@ async def main():
     dp.update.middleware(DbSessionMiddleware())
     dp.include_router(setup_routers())
 
-    await dp.start_polling(bot)
+    rag_fs = RagFS()
+    await dp.start_polling(bot, rag_fs=rag_fs)
 
 
 if __name__ == "__main__":

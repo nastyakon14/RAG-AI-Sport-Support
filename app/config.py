@@ -11,6 +11,9 @@ class Settings(BaseSettings):
     bot_token: str = Field(validation_alias="BOT_TOKEN")
     database_url: str = Field(validation_alias="DATABASE_URL")
     openai_api_key: str | None = Field(default=None, validation_alias="OPENAI_API_KEY")
+    agentplatform_key: str | None = Field(
+        default=None, validation_alias="AGENTPLATFORM_KEY"
+    )
 
 
 settings = Settings()
