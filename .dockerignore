@@ -1,0 +1,9 @@
+README.md
+requirements.dev.txt
+.pre-commit-config.yaml
+.venv/
+notebooks/
+.env.compose
+docker-compose.yaml
+data/rag/chunks/
+data/rag/sources/

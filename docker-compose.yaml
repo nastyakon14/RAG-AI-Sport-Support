@@ -5,4 +5,36 @@ services:
     env_file:
       - .env.compose
     ports:
-      - "5432:5432"
+      - "${POSTGRES_PORT:-5432}:5432"
+    restart: unless-stopped
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+  alembic:
+    build: .
+    container_name: alembic
+    depends_on:
+      sport-support-db:
+        condition: service_healthy
+    env_file:
+      - .env
+    command: alembic upgrade head
+    restart: "no"
+  bot:
+    build: .
+    container_name: bot
+    restart: unless-stopped
+    depends_on:
+      sport-support-db:
+        condition: service_healthy
+      alembic:
+        condition: service_completed_successfully
+    env_file:
+      - .env
+    command: python -m app.main
+volumes:
+  pgdata:
