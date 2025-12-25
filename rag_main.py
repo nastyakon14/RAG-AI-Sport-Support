@@ -1,14 +1,14 @@
-from retriever import RetrieverFS
 from generator import GeneratorFS
+from retriever import RetrieverFS
 
-class ragFS:
-  def __init__(self):
-    self.retriever = RetrieverFS()
-    self.generator = GeneratorFS()
 
-  def find_answer(self, query):
+class RagFS:
+    def __init__(self):
+        self.retriever = RetrieverFS()
+        self.generator = GeneratorFS()
 
-    docs = self.retriever.get_retriever_answer(query,metadata_flag = False)
-    result_answer = self.generator.get_llm_answer(query = query, docs = docs)
+    def find_answer(self, query):
+        docs = self.retriever.get_retriever_answer(query, metadata_flag=False)
+        result_answer = self.generator.get_llm_answer(query=query, docs=docs)
 
-    return result_answer
+        return result_answer
