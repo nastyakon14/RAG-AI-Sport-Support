@@ -9,6 +9,81 @@ from langchain_community.document_loaders import UnstructuredPDFLoader
 from langchain_core.documents import Document
 
 
+ISU_links = { # медиа
+'ISU Figure Skating Media Guide 2024-2025.pdf': 
+    'https://isu-d8g8b4b7ece7aphs.a03.azurefd.net/isudamcontainer/uploads/images/press/mediaaccreditationguides/Figure_Skating_Media_Guide_2024-25.pdf',
+# компоненты - личное, парное, танцы, синхронное
+'Program Components – Single & Pairs, Ice Dance and Synchronized Skating 2024.pdf':
+    'https://isu-d8g8b4b7ece7aphs.a03.azurefd.net/isudamcontainer/CMS/sportrulesdisciplinecategory/pdf/Componentschartupdated2024July086344800_17327068456450.pdf',
+# компоненты и презентация
+'Composition, Presentation and Skating Skills Charts.pdf':
+    'https://www.isu.org/figure-skating-rules/?tab=Handbooks%20Single%20%26%20Pair%20Skating',
+#  Объяснение Символов На Судейских Данных
+'Explanation Of Symbols On The Judges Details Per Skater_2023.pdf': 
+    'https://isu-d8g8b4b7ece7aphs.a03.azurefd.net/isudamcontainer/CMS/sportrulesdisciplinecategory/pdf/EXPLANATIONOFSYMBOLSONTHEJUDGESDETAILSPERSKATERJuniorandSenior056186400_17327128487461.pdf',
+# техническое судейство - одиночное + парное
+'Handbook For Referees And Judges Single And Pair Skating 2025-2026.pdf': 
+  'https://isu-d8g8b4b7ece7aphs.a03.azurefd.net/isudamcontainer/CMS/Corporate-Site/Sports-Rules/Figure-Skating-Rules/Handbooks-Single-&-Pair-Skating/Handbook-for-Referees-and-Judges-2025-26-July-1753088479-0379.pdf',
+# техническое руководство - парное катание
+'Technical Panel Handbook Pair Skating 2025-2026.pdf':
+   'https://isu-d8g8b4b7ece7aphs.a03.azurefd.net/isudamcontainer/CMS/Corporate-Site/Sports-Rules/Figure-Skating-Rules/Handbooks-Single-&-Pair-Skating/TP-Handbook-Pair-Skating-2025-26-25July-1754657063-3208.pdf',
+# техническое руководство - одиночное катание
+'Technical Panel Handbook Single Skating 2025-2026.pdf':
+   'https://isu-d8g8b4b7ece7aphs.a03.azurefd.net/isudamcontainer/CMS/Corporate-Site/Sports-Rules/Figure-Skating-Rules/Handbooks-Single-&-Pair-Skating/TP-Handbook-Singles-25-26-FINAL-21-July-2025-update-25-July-1753703999-2708.pdf',
+# технические требования - одиночное, парное, танцы
+'Special Regulations & Technical Rules Single & Pair Skating And Ice Dance 2024.pdf':
+    'https://isu-d8g8b4b7ece7aphs.a03.azurefd.net/isuproduction/uploads/images/isustatutes/documents/2024_Special_Regulation_SP_and_Ice_Dance_and_Technical_Rules_SP__and_ID_Final_rev.pdf',
+# технические требования - танцы на льду
+'Requirements for Technical Rules season Ice Dance 2025-2026.pdf':
+  'https://isu-d8g8b4b7ece7aphs.a03.azurefd.net/isudamcontainer/CMS/Corporate-Site/Governance/Transparency/ISU-Communications/2704-ID-Requirements-for-Technical-Rules-season-2025-26-updated-post-Frankfurt-final-1754983899-0624.pdf'
+}
+
+prof_links = {
+    'Правила Вида Спорта «Фигурное Катание На Коньках» 2024.pdf':
+        'https://fsrussia.ru/files/docs/fs_rules_rus_16_10_24_1025.pdf',
+    
+    'Нормы, требования и условия их выполнения по виду спорта «фигурное катание на коньках» 2024.pdf':
+      'https://fsrussia.ru/files/docs/evsk_fs_2326_311024.pdf',
+    
+    'Руководство Технических бригад Одиночное катание 2024-2025.pdf':
+      'https://fsrussia.ru/files/docs/tp_handbook_singles_2425.pdf',
+    
+    'Руководство Технических бригад Парное катание 2024-2025.pdf':
+      'https://fsrussia.ru/files/docs/tp_handbook_pairs_2425.pdf',
+    
+    'Руководство технических бригад Синхронное катание 2024-2025.pdf':
+      'https://fsrussia.ru/files/docs/archive/synchro/tp_handbook_sys_2425.pdf',
+    
+    'Технические требования по одиночному и парному катанию.pdf':
+      'https://calculatorfs.ru/wp-content/uploads/2023/03/fs_tech_requirement.pdf',
+    
+    'Указания по судейству элемента «хореографическая спираль».pdf':
+      'https://fsrussia.ru/files/docs/chspl_2023_description_upd.pdf'
+}
+
+lovers_link = {
+    'Специальные требования к проведению соревнований 2025.pdf':
+      'https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FFkh4OgSnJhwc5nJukWnMo7IzHesR4Z5bG%2BVeJ5ft%2BiJsBtue%2F9pCsw3pugwbsIbEq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Специальные%20требования%20к%20проведению%20соревнований%20по%20фигурному%20катанию%20на%20коньках%20среди%20взрослых-любителей.pdf',
+    
+    'Технические требования для фигуристов-любителей с РАС и другими ментальными нарушениями в сезоне 2025-2026.pdf':
+      'https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Fe13tSDA7bt762%2F47%2FQdfFl1dumxmKDLCScXmRYaWk%2FX2i55FcMdNAnNlRbzqGYiXq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=ПРЕДВАРИТЕЛЬНЫЕ_Технические_требования_2025_2026_послед.pdf&nosw=1',
+    
+    'Технические требования для соревнований по фигурному катанию на коньках среди взрослых любителей 2025-2026.pdf':
+      'https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F0pInUV91oCnIOUM9jZItc7rRn1WDQ0dvhnYdOCUUj3oVR7fuhTWg1dXp2%2BnXmbuIq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Технические%20требования%20для%20соревнований%20среди%20взрослых-любителей%202025-2026.pdf&nosw=1',
+    
+    'Технические требования «фигурное катание на коньках» для детей-любителей 2025-2026.pdf':
+      'https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FYVsYquFcRbB%2FuJvY84kGBpAce%2BciRmh628iO6R%2Fwj6pLk7ctwW3tS8QuTgE89XTdq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Технические_требования_для_детей_любителей_2025%5C2026.pdf&nosw=1',
+    
+    'Танцы на льду соло содержание программ и дополнительные требования  2025-2026.pdf':
+      'https://docviewer.yandex.ru/?url=ya-disk-public%3A%2F%2FyWRe4fGGsUkEY1HxCE7ovBkYiwN7mHVDIciIgtA25Vc4mvYgzwHhFsvhdwyPN04Fq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Технические%20требования%20для%20танцев%20на%20льду%20соло%202025-2026.pdf',
+    
+    'Технические требования для танцев на льду соло 2025-2026.pdf':
+    'https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FyWRe4fGGsUkEY1HxCE7ovBkYiwN7mHVDIciIgtA25Vc4mvYgzwHhFsvhdwyPN04Fq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Технические%20требования%20для%20танцев%20на%20льду%20соло%202025-2026.pdf',
+
+    'Программа тестирования для любителей.pdf':
+    'https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F2U%2FIy32gcoHICJEBicheA8ogi8xCVlEt3h8rdxccYjy2EgojSTRhnlkym2%2FO808Rq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Программа_тестирования_для_любителей.pdf&nosw=1'
+}
+
 def concat_tables(raw_tables: camelot.core.TableList) -> List[Dict[str, Any]]:
     """
     Объединяет фрагменты таблиц, растянутых на несколько страниц, в логические таблицы.
@@ -204,31 +279,38 @@ def infer_pdf_metadata(pdf_path: str) -> Dict[str, Any]:
     - season: '2024-2025', '2025', ...
     - level: adult_amateur / kids_amateur / unspecified
     - doc_type: rules / technical_requirements / handbook / ranks / other
+    - source_link: link 
     """
     meta: Dict[str, Any] = {}
     parts = pdf_path.split(os.sep)
-    folder = parts[1] if len(parts) > 1 else ""
+    folder = parts[-2] if len(parts) > 1 else ""
     filename = os.path.basename(pdf_path)
     fname_lower = filename.lower()
-
+    
     # 1) Аудитория / уровень
     if "профессионалы" in folder.lower():
         meta["audience"] = "pro"
+        source_link = prof_links
     elif "любители" in folder.lower():
         meta["audience"] = "amateur"
+        source_link = lovers_link
     elif "isu" in folder.lower():
         meta["audience"] = "isu"
+        source_link = ISU_links
     else:
         meta["audience"] = "unknown"
 
+    # источник откуда скачан файл (веб ресурс)
+    meta['source_link'] = source_link[filename]
+    
     # 2) Дисциплина
-    if "одиноч" in fname_lower:
+    if "одиноч" in fname_lower or "singl" in fname_lower:
         meta["discipline"] = "singles"
-    elif "парн" in fname_lower:
+    elif "парн" in fname_lower or "pair" in fname_lower:
         meta["discipline"] = "pairs"
-    elif "танц" in fname_lower:
+    elif "танц" in fname_lower or "dance" in fname_lower:
         meta["discipline"] = "ice_dance"
-    elif "синхрон" in fname_lower:
+    elif "синхрон" in fname_lower or "synchro" in fname_lower:
         meta["discipline"] = "synchro"
     else:
         meta["discipline"] = "general"
@@ -251,11 +333,11 @@ def infer_pdf_metadata(pdf_path: str) -> Dict[str, Any]:
         meta["level"] = "unspecified"
 
     # 5) Тип документа
-    if "правила" in fname_lower:
+    if "правила" in fname_lower or 'requirement' in fname_lower:
         meta["doc_type"] = "rules"
-    elif "технические требования" in fname_lower or "техтребован" in fname_lower:
+    elif "технические требования" in fname_lower or "техтребован" in fname_lower or 'technical' in fname_lower:
         meta["doc_type"] = "technical_requirements"
-    elif "руководств" in fname_lower:
+    elif "руководств" in fname_lower or 'handbook' in fname_lower:
         meta["doc_type"] = "handbook"
     elif "разряд" in fname_lower:
         meta["doc_type"] = "ranks"

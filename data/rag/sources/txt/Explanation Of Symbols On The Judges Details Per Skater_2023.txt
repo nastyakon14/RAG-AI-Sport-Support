@@ -1,0 +1,45 @@
+4. EXPLANATION OF SYMBOLS ON THE JUDGES DETAILS PER SKATER (Junior and Senior) Explanation Symbol <
+4. EXPLANATION OF SYMBOLS ON THE JUDGES DETAILS PER SKATER (Junior and Senior) Explanation = reduce by 1 Level, interruption of 1 measure or less in PDE.
+If the PDE is interrupted one (1) measure or less (4 or 6 beats based on the PDE), the key points are called as identified and the level will be reduced by 1. It is reported on the Judges Details per Skater chart as: “<” to indicate an interruption of one (1) measure or less. If the PDE is interrupted more than one (1) measure (4 or 6 beats based on the PDE), the key points are called as identified and the level will be reduced by 2. It is reported on the Judges Details per Skater chart as: “<<” to indicate an interruption of more than one (1) measure If the duration of the Dance Lift is longer than permitted time, the Referee applies the deduction of -1.0 point. The duration of the Lift is confirmed by the Referee electronically Extra Element (ExEl) If an Extra Element is performed in addition to the allowed number of elements from an element group in Rhythm Dance or Free Dance to such element ExEl will be added and the element receives a deduction. For example: If a Spin(s) occurs within a Step Sequence (including ChSt) when not permitted such Spin(s) will be identified as Extra Element(s) ExEl and receive a deduction, E.g., ChSt+ExEl
+= reduce by 2 Levels, interruption of more than 1 measure in PDE = -1.0 point deduction for extended Dance Lift
+ExEl
+1.0 deduction
+Element gets NO Value but will NOT receive a deduction.
+= Fall in Element, -1.0 per Fall per Partner = reduced by 1 Level, if in hold/contact/touch or NOT in hold/contact/touch. = Choreo Element is identified and does not fulfill all requirements.
+If a Lift(s) occurs within a Step Sequence (including ChSt/ChRS) when not permitted or an extra lift in addition to allowed number of lifts is performed, such Lift(s) will be identified as Extra Element(s) ExEl and receive a deduction, E.g.., ChSt+ExEl, Li+ExEl. Element not according to the well-balanced program requirements (*) If an incorrect element is performed not according to the requirements (E.g., Circular Step Sequence instead of E.g., a required MiSt/DiSt) or the repetition rule for Lifts is violated the element will receive NO value but will NOT receive a deduction. If there is a Fall(s) within an Element, this is identified by the Technical Specialist as a Fall in Element and Data Operator pushes the respective button “Fall in Element”.
+If partners are in Hold/contact/touch when not permitted or or do not stay in Hold/contact/touch when required, the Level shall be reduced by 1 Level (and 1 Level per each partner) when applicable
+If a Choreographic Element is identified and does not fulfill all the requirements, it receives the “!” symbol on the Judges screen and the Judges will apply the appropriate GOE per the GOE chart. - If the pattern of both the Step Sequence and the ChSt are exactly the same (e.g.Diagonal Step Sequence and Diagonal ChSt) – Jr/Sr
+
+
+--- Table 1 ---
+| Symbol   | Action                             | Explanation                                                                                                                                     |
+|:---------|:-----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|
+| <        | = reduce by 1 Level, interruption  | If the PDE is interrupted one (1) measure or less (4 or 6 beats based on the PDE), the key points are called as identified and the level will   |
+|          | of 1 measure or less in PDE.       | be reduced by 1.  It is reported on the Judges Details per Skater chart as:  “<” to indicate an interruption of one (1) measure or less.        |
+| <<       | = reduce by 2 Levels,              | If the PDE is interrupted more than one (1) measure (4 or 6 beats based on the PDE), the key points are called as identified and the level      |
+|          | interruption of more than 1        | will be reduced by 2.    It is reported on the Judges Details per Skater chart as:  “<<” to indicate an interruption of more than one (1)       |
+|          | measure in PDE                     | measure                                                                                                                                         |
+| >        | = -1.0 point deduction for         | If the duration of the Dance Lift is longer than permitted time, the Referee applies the deduction of -1.0 point. The duration of the Lift is   |
+|          | extended Dance Lift                | confirmed by the Referee electronically                                                                                                         |
+| ExEl     | -1.0 deduction                     | Extra Element (ExEl)                                                                                                                            |
+|          |                                    |  If an Extra Element is performed in addition to the allowed number of elements from an element group in Rhythm Dance or Free Dance to          |
+|          |                                    | such element ExEl will be added and the element receives a deduction.                                                                           |
+|          |                                    |                                                                                                                                                 |
+|          |                                    | For example:                                                                                                                                    |
+|          |                                    | If a Spin(s) occurs within a Step Sequence (including ChSt) when not permitted such Spin(s) will be identified as Extra Element(s) ExEl         |
+|          |                                    | and receive a deduction, E.g., ChSt+ExEl                                                                                                        |
+|          |                                    |                                                                                                                                                 |
+|          |                                    | If a Lift(s) occurs within a Step Sequence (including ChSt/ChRS) when not permitted or an extra lift in addition to allowed number of lifts is  |
+|          |                                    | performed, such Lift(s) will be identified as Extra Element(s) ExEl and receive a deduction, E.g.., ChSt+ExEl, Li+ExEl.                         |
+| *        | Element gets NO Value but will     | Element not according to the well-balanced program requirements (*)                                                                             |
+|          | NOT receive a deduction.           | If an incorrect element is performed not according to the requirements (E.g., Circular Step Sequence instead of E.g., a required MiSt/DiSt)     |
+|          |                                    | or the repetition rule for Lifts is violated the element will receive NO value but will NOT receive a deduction.                                |
+| F        | = Fall in Element, -1.0 per Fall   | If there is a Fall(s) within an Element, this is identified by the Technical Specialist as a Fall in Element and Data Operator pushes the       |
+|          | per Partner                        | respective button “Fall in Element”.                                                                                                            |
+| S        | = reduced by 1 Level, if in        | If partners are in Hold/contact/touch when not permitted or or do not stay in Hold/contact/touch when required, the Level shall be reduced      |
+|          | hold/contact/touch or NOT in       | by 1 Level (and 1 Level per each partner) when applicable                                                                                       |
+|          | hold/contact/touch.                |                                                                                                                                                 |
+| !        | = Choreo Element is identified     | - If a Choreographic Element is identified and does not fulfill all the requirements, it receives the “!” symbol on the Judges screen and the   |
+|          | and does not fulfill all           | Judges will apply the appropriate GOE per the GOE chart.                                                                                        |
+|          | requirements.                      | -  If the pattern of both the Step Sequence and the ChSt are exactly the same (e.g.Diagonal Step Sequence and Diagonal ChSt) – Jr/Sr            |
+------------------

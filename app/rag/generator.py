@@ -50,12 +50,12 @@ class GeneratorFS:
 
         4) ALWAYS end with a separate section called “Ссылки” (or “References” if the question is in English):
         <b>Ссылки:</b>
-        1) FILE NAME — стр. X — раздел/Rule/таблица (если применимо)
+        1) 1) <a href="Ссылка на источник">Название файла</a>.— стр. X — раздел/Правило/таблица (если применимо)
         2) ...
 
         REFERENCES RULES (MANDATORY):
         - The “Ссылки/References” section must be present in every answer.
-        - Each reference must include at least: file name + page number.
+        - Each reference must include at least: link to reference, file name + page number.
         - If applicable, also include: section name / rule number / table name.
         - If there are no supporting documents, still include the section and write:
         1) Нет прямых ссылок в предоставленных документах.
@@ -85,7 +85,8 @@ class GeneratorFS:
             meta = d.metadata
             ref = f"""
               [Источник {i + 1}]
-              Файл: {meta.get('source', 'unknown')}
+              Ссылка на источник : {meta.get('source_link', 'unknown')}
+              Название файла: {meta.get('source_file', 'unknown')}
               Страница: {meta.get('page_number', 'N/A')}
               Секция: {meta.get('section', 'N/A')}
               """
