@@ -1,6 +1,6 @@
-from deepeval.test_case import LLMTestCaseParams
 from deepeval.metrics import GEval
 from deepeval.metrics.g_eval import Rubric
+from deepeval.test_case import LLMTestCaseParams
 
 
 def mk_correctness_0_2():

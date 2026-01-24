@@ -3,14 +3,14 @@ from __future__ import annotations
 import os
 
 import pandas as pd
-from dotenv import load_dotenv
 from deepeval import evaluate
 from deepeval.evaluate import AsyncConfig, ErrorConfig
+from dotenv import load_dotenv
 
 from app.bench import (
     DATASETS_MAPPING,
-    RagFSBench,
     WHOLE_DS_PATH,
+    RagFSBench,
     dump_eval_result,
     sync_build_test_cases,
 )
@@ -70,9 +70,10 @@ def test_base():
     )
 
     # TODO: сохранение score происходит в нормализованном виде (score из [0,1])
-    dump_eval_result(results, os.path.join("data", f"test_results_{dataset_name}_{kind}.json"))
+    dump_eval_result(
+        results, os.path.join("data", f"test_results_{dataset_name}_{kind}.json")
+    )
 
 
 if __name__ == "__main__":
     test_base()
-

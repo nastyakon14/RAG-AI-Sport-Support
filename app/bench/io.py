@@ -32,4 +32,3 @@ def dump_eval_result(result: Any, path: str) -> None:
 
     with open(path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
-

@@ -12,4 +12,3 @@ DATASETS_MAPPING: dict[str, str] = {
 
 # Backwards-compatible alias (README previously used DATASET_MAPPING).
 DATASET_MAPPING = DATASETS_MAPPING
-

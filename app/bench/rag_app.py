@@ -12,4 +12,3 @@ class RagFSBench(RagFS):
 
         docs_str = [doc.page_content for doc in docs]
         return result_answer, docs_str
-

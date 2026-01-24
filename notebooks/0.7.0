@@ -74,4 +74,3 @@ Using cached timm-1.0.24-py3-none-any.whl (2.6 MB)
 Using cached torchvision-0.24.1-cp311-cp311-win_amd64.whl (4.0 MB)
 Installing collected packages: opencv-python, ml_dtypes, onnx, torchvision, onnxruntime, accelerate, timm, unstructured-inference
    ---------------------------------------- 0/8 [opencv-python]
-

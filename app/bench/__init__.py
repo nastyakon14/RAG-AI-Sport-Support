@@ -7,8 +7,8 @@ Public API is re-exported here for convenience:
 - RAG wrapper used in bench: `RagFSBench`
 """
 
-from .constants import WHOLE_DS_PATH, DATASETS_MAPPING, DATASET_MAPPING
-from .cases import sync_build_test_cases, async_build_test_cases
+from .cases import async_build_test_cases, sync_build_test_cases
+from .constants import DATASET_MAPPING, DATASETS_MAPPING, WHOLE_DS_PATH
 from .io import dump_eval_result
 from .rag_app import RagFSBench
 

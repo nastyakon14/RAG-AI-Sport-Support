@@ -2,12 +2,10 @@ from __future__ import annotations
 
 import asyncio
 import time
-from typing import Iterable
-
-from tqdm import tqdm
-from tqdm.asyncio import tqdm_asyncio
 
 from deepeval.test_case import LLMTestCase
+from tqdm import tqdm
+from tqdm.asyncio import tqdm_asyncio
 
 try:
     # openai>=1.0
@@ -50,7 +48,9 @@ def sync_build_test_cases(rows, rag_app) -> list[LLMTestCase]:
     return test_cases
 
 
-async def async_build_test_cases(rows, rag_app, concurrency: int = 2) -> list[LLMTestCase]:
+async def async_build_test_cases(
+    rows, rag_app, concurrency: int = 2
+) -> list[LLMTestCase]:
     """Build LLMTestCase list concurrently using threads (safer for sync RAG code)."""
     sem = asyncio.Semaphore(concurrency)
 
@@ -69,4 +69,3 @@ async def async_build_test_cases(rows, rag_app, concurrency: int = 2) -> list[LL
     tasks = [one(row) for row in rows.itertuples(index=False)]
     test_cases = await tqdm_asyncio.gather(*tasks)
     return list(test_cases)
-
